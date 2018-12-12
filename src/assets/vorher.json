@@ -1,0 +1,197 @@
+﻿{
+  "rdf:RDF": {
+    "$": {
+      "xmlns": "http://objekte-im-netz.fau.de/ontology/common/",
+      "xmlns:xsp": "http://www.owl-ontologies.com/2005/08/07/xsp.owl#",
+      "xmlns:rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+      "xmlns:owl": "http://www.w3.org/2002/07/owl#",
+      "xmlns:ecrm": "http://erlangen-crm.org/170309/",
+      "xmlns:protege": "http://protege.stanford.edu/plugins/owl/protege#",
+      "xmlns:xsd": "http://www.w3.org/2001/XMLSchema#",
+      "xmlns:swrl": "http://www.w3.org/2003/11/swrl#",
+      "xmlns:swrlb": "http://www.w3.org/2003/11/swrlb#",
+      "xmlns:skos": "http://www.w3.org/2004/02/skos/core#",
+      "xmlns:rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+      "xmlns:fn": "http://www.w3.org/2005/xpath-functions#",
+      "xmlns:sesame": "http://www.openrdf.org/schema/sesame#",
+      "xmlns:samm": "http://objekte-im-netz.fau.de/ontology/common/",
+      "xmlns:ufg": "http://objekte-im-netz.fau.de/ontology/ufg/",
+      "xmlns:palaeo": "http://objekte-im-netz.fau.de/ontology/palaeo/"
+    },
+    "rdf:Description": [
+      {
+        "$": {
+          "rdf:about": "http://projects.hki.uni-koeln.de/wisski/wisski/navigate/145/view"
+        },
+        "originatesFrom": {
+          "_": "drupal_id",
+          "$": {
+            "xmlns": "http://projects.hki.uni-koeln.de/wisski/content/"
+          }
+        },
+        "owl:sameAs": {
+          "$": {
+            "rdf:resource": "http://projects.hki.uni-koeln.de/wisski/content/5aaa6fe23424e"
+          }
+        }
+      },
+      {
+        "$": {
+          "rdf:about": "http://projects.hki.uni-koeln.de/wisski/content/5ae718f550e3d"
+        },
+        "rdf:type": {
+          "$": {
+            "rdf:resource": "http://erlangen-crm.org/170309/E35_Title"
+          }
+        },
+        "ecrm:P3_has_note": "Jewelery in vasnave"
+      },
+      {
+        "$": {
+          "rdf:about": "http://projects.hki.uni-koeln.de/wisski/content/5ae7192bd0a9f"
+        },
+        "rdf:type": [
+          {
+            "$": {
+              "rdf:resource": "http://erlangen-crm.org/170309/E53_Place"
+            }
+          },
+          {
+            "$": {
+              "rdf:resource": "http://objekte-im-netz.fau.de/ontology/common/S40_Geographical_Place"
+            }
+          }
+        ],
+        "ecrm:P87_is_identified_by": {
+          "$": {
+            "rdf:resource": "http://projects.hki.uni-koeln.de/wisski/content/5ae7192bee96a"
+          }
+        },
+        "originatesFrom": {
+          "_": "sparql_1_1_rdf_with_pathbuilder",
+          "$": {
+            "xmlns": "http://projects.hki.uni-koeln.de/wisski/content/"
+          }
+        },
+        "owl:sameAs": [
+          {
+            "$": {
+              "rdf:resource": "http://projects.hki.uni-koeln.de/wisski/wisski/navigate/148/view"
+            }
+          },
+          {
+            "$": {
+              "rdf:resource": "http://projects.hki.uni-koeln.de/wisski/content/5ae7192c2c2c1"
+            }
+          }
+        ]
+      },
+      {
+        "$": {
+          "rdf:about": "http://projects.hki.uni-koeln.de/wisski/wisski/navigate/148/view"
+        },
+        "originatesFrom": {
+          "_": "drupal_id",
+          "$": {
+            "xmlns": "http://projects.hki.uni-koeln.de/wisski/content/"
+          }
+        },
+        "owl:sameAs": [
+          {
+            "$": {
+              "rdf:resource": "http://projects.hki.uni-koeln.de/wisski/content/5ae7192bd0a9f"
+            }
+          },
+          {
+            "$": {
+              "rdf:resource": "http://projects.hki.uni-koeln.de/wisski/content/5ae7192c2c2c1"
+            }
+          }
+        ]
+      },
+      {
+        "$": {
+          "rdf:about": "http://projects.hki.uni-koeln.de/wisski/content/5ae7192bee96a"
+        },
+        "rdf:type": {
+          "$": {
+            "rdf:resource": "http://erlangen-crm.org/170309/E48_Place_Name"
+          }
+        },
+        "ecrm:P3_has_note": "Vasnaveh"
+      },
+      {
+        "$": {
+          "rdf:about": "http://projects.hki.uni-koeln.de/wisski/content/5ae7192c2c2c1"
+        },
+        "originatesFrom": {
+          "_": "sparql_rdf_for_crmarchaeo",
+          "$": {
+            "xmlns": "http://projects.hki.uni-koeln.de/wisski/content/"
+          }
+        },
+        "owl:sameAs": [
+          {
+            "$": {
+              "rdf:resource": "http://projects.hki.uni-koeln.de/wisski/content/5ae7192bd0a9f"
+            }
+          },
+          {
+            "$": {
+              "rdf:resource": "http://projects.hki.uni-koeln.de/wisski/wisski/navigate/148/view"
+            }
+          }
+        ]
+      },
+      {
+        "$": {
+          "rdf:about": "http://projects.hki.uni-koeln.de/wisski/content/5ae71a1120e3c"
+        },
+        "rdf:type": {
+          "$": {
+            "rdf:resource": "http://erlangen-crm.org/170309/E7_Activity"
+          }
+        },
+        "ecrm:P7_took_place_at": {
+          "$": {
+            "rdf:resource": "http://projects.hki.uni-koeln.de/wisski/content/5ae7192bd0a9f"
+          }
+        }
+      },
+      {
+        "$": {
+          "rdf:about": "http://projects.hki.uni-koeln.de/wisski/content/5b2a19e55e749"
+        },
+        "rdf:type": {
+          "$": {
+            "rdf:resource": "http://erlangen-crm.org/170309/E54_Dimension"
+          }
+        },
+        "ecrm:P90_has_value": "Testdimension"
+      },
+      {
+        "$": {
+          "rdf:about": "http://projects.hki.uni-koeln.de/wisski/content/5b4c5516c9293"
+        },
+        "originatesFrom": {
+          "_": "sparql_rdf_for_crmarchaeo",
+          "$": {
+            "xmlns": "http://projects.hki.uni-koeln.de/wisski/content/"
+          }
+        },
+        "owl:sameAs": [
+          {
+            "$": {
+              "rdf:resource": "http://projects.hki.uni-koeln.de/wisski/content/5a7c20a6eb84f"
+            }
+          },
+          {
+            "$": {
+              "rdf:resource": "http://projects.hki.uni-koeln.de/wisski/wisski/navigate/2/view"
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

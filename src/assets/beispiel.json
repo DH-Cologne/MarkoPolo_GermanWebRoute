@@ -1,0 +1,304 @@
+{
+  "prefixes":[
+    {
+      "id": 0.1,
+      "name": "http://projects.hki.uni-koeln.de/wisski/content/"
+    },
+    {
+      "id": 0.2,
+      "name": "http://www.w3.org/2002/07/owl#"  
+    },
+    {
+      "id": 0.3,
+      "name": "http://erlangen-crm.org/170309/"
+    },
+    {
+      "id": 0.4,
+      "name": "http://projects.hki.uni-koeln.de/wisski/wisski/navigate/"
+    },
+    {
+      "id": 0.5,
+      "name": "http://objekte-im-netz.fau.de/ontology/common/"
+    }
+  ],
+  "nodes": [
+    {
+      "name": "145/view",
+      "prefix": 0.4,
+      "link": "http://projects.hki.uni-koeln.de/wisski/wisski/navigate/145/view",
+      "id": 1
+    },
+    {
+      "name": "drupal_id",
+      "id": 2
+    },
+    {
+      "name": "5aaa6fe23424e",
+      "prefix": 0.1,
+      "link": "http://projects.hki.uni-koeln.de/wisski/content/5aaa6fe23424e",
+      "id": 3
+    },
+    {
+      "name": "5ae718f550e3d",
+      "prefix": 0.1,
+      "link": "http://projects.hki.uni-koeln.de/wisski/content/5ae718f550e3d",
+      "id": 4
+    },
+    {
+      "name":"E35_Title",
+      "prefix": 0.3,
+      "link": "http://erlangen-crm.org/170309/E35_Title",
+      "id": 5
+    },
+    {
+      "name": "Jewelery in vasnave",
+      "id": 6
+    },
+    {
+      "name": "5ae7192bd0a9f",
+      "prefix": 0.1,
+      "link": "http://projects.hki.uni-koeln.de/wisski/content/5ae7192bd0a9f",
+      "id": 7
+    },
+    {
+      "name": "E53_Place",
+      "prefix": 0.3,
+      "link": "http://erlangen-crm.org/170309/E53_Place",
+      "id": 8
+    },
+    {
+      "name": "S40_Geographical_Place",
+      "prefix": 0.5,
+      "link": "http://objekte-im-netz.fau.de/ontology/common/",
+      "id": 9
+    },
+    {
+      "name": "5ae7192bee96a",
+      "prefix": 0.1,
+      "link": "http://projects.hki.uni-koeln.de/wisski/content/5ae7192bee96a",
+      "id": 10
+    },
+    {
+      "name": "sparql_1_1_rdf_with_pathbuilder",
+      "id": 11
+    },
+    {
+      "name": "148/view",
+      "prefix": 0.4,
+      "link": "http://projects.hki.uni-koeln.de/wisski/wisski/navigate/148/view",
+      "id": 12
+    },
+    {
+      "name": "5ae7192c2c2c1",
+      "prefix": 0.1,
+      "link": "http://projects.hki.uni-koeln.de/wisski/content/5ae7192c2c2c1",
+      "id": 13
+    },
+    {
+      "name": "E48_Place_Name",
+      "prefix": 0.3,
+      "link": "http://erlangen-crm.org/170309/E48_Place_Name",
+      "id": 14
+    },
+    {
+      "name": "Vasnaveh",
+      "id": 15
+    },
+    {
+      "name": "sparql_rdf_for_crmarchaeo",
+      "id": 16
+    },
+    {
+      "name": "5ae71a1120e3c",
+      "prefix": 0.1,
+      "link": "http://projects.hki.uni-koeln.de/wisski/content/5ae71a1120e3c",
+      "id": 17
+    },
+    {
+      "name": "E7_Activity",
+      "prefix": 0.3,
+      "link": "http://erlangen-crm.org/170309/E7_Activity",
+      "id": 18
+    },
+    {
+      "name": "5b2a19e55e749",
+      "prefix": 0.1,
+      "link": "http://projects.hki.uni-koeln.de/wisski/content/5b2a19e55e749",
+      "id": 19
+    },
+    {
+      "name": "E54_Dimension",
+      "prefix": 0.3,
+      "link": "http://erlangen-crm.org/170309/E54_Dimension",
+      "id": 20
+    },
+    {
+      "name": "Testdimension",
+      "id": 21
+    },
+    {
+      "name": "5b4c5516c9293",
+      "prefix": 0.1,
+      "link": "http://projects.hki.uni-koeln.de/wisski/content/5b4c5516c9293",
+      "id": 22
+    },
+    {
+      "name": "5a7c20a6eb84f",
+      "prefix": 0.1,
+      "link": "http://projects.hki.uni-koeln.de/wisski/content/5a7c20a6eb84f",
+      "id": 23
+    },
+    {
+      "name": "2/view",
+      "prefix": 0.4,
+      "link": "http://projects.hki.uni-koeln.de/wisski/wisski/navigate/2/view",
+      "id": 24
+    }
+  ],
+  "links": [
+    {
+      "source": 1,
+      "target": 2,
+      "type": "originatesFrom",
+      "prefix": 0.1
+    },
+    {
+      "source": 1,
+      "target": 3,
+      "type": "sameAs",
+      "prefix": 0.2
+    },
+    {
+      "source": 4,
+      "target": 5,
+      "type": "rdf:type"
+    },
+    {
+      "source": 4,
+      "target": 6,
+      "type": "P3_has_note",
+      "prefix": 0.3
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "type": "rdf:type"
+    },
+    {
+      "source": 7,
+      "target": 9,
+      "type": "rdf:type"
+    },
+    {
+      "source": 7,
+      "target": 10,
+      "type": "P87_is_identified_by",
+      "prefix": 0.3
+    },
+    {
+      "source": 7,
+      "target": 11,
+      "type": "originatesFrom",
+      "prefix": 0.1
+    },
+    {
+      "source": 7,
+      "target": 12,
+      "type": "sameAs",
+      "prefix": 0.2
+    },
+    {
+      "source": 7,
+      "target": 13,
+      "type": "sameAs",
+      "prefix": 0.2
+    },
+    {
+      "source": 12,
+      "target": 2,
+      "type": "originatesFrom",
+      "prefix": 0.1
+    },
+    {
+      "source": 12,
+      "target": 7,
+      "type": "sameAs",
+      "prefix": 0.2
+    },
+    {
+      "source": 12,
+      "target": 13,
+      "type": "sameAs",
+      "prefix": 0.2
+    },
+    {
+      "source": 10,
+      "target": 14,
+      "type": "rdf:type"
+    },
+    {
+      "source": 10,
+      "target": 15,
+      "type": "P3_has_note",
+      "prefix": 0.3
+    },
+    {
+      "source": 13,
+      "target": 16,
+      "type": "originatesFrom",
+      "prefix": 0.1
+    },
+    {
+      "source": 13,
+      "target": 7,
+      "type": "sameAs",
+      "prefix": 0.2
+    },
+    {
+      "source": 13,
+      "target": 12,
+      "type": "sameAs",
+      "prefix": 0.2
+    },
+    {
+      "source": 17,
+      "target": 18,
+      "type": "rdf:type"
+    },
+    {
+      "source": 17,
+      "target": 7,
+      "type": "P7_took_place_at",
+      "prefix": 0.3
+    },
+    {
+      "source": 19,
+      "target": 20,
+      "type": "rdf:type"
+    },
+    {
+      "source": 19,
+      "target": 21,
+      "type": "P90_has_value",
+      "prefix": 0.3
+    },
+    {
+      "source": 22,
+      "target": 16,
+      "type": "originatesFrom",
+      "prefix": 0.1
+    },
+    {
+      "source": 22,
+      "target": 23,
+      "type": "sameAs",
+      "prefix": 0.2
+    },
+    {
+      "source": 22,
+      "target": 24,
+      "type": "sameAs",
+      "prefix": 0.2
+    }
+  ]
+}

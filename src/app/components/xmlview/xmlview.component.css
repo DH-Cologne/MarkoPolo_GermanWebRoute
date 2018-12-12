@@ -1,0 +1,11 @@
+pre {
+  word-wrap: normal;
+  margin: 0;
+}
+
+code {
+  flex: 1;
+  padding: 24px;
+  line-height: 1.8em;
+  font-size: 0.9em;
+}

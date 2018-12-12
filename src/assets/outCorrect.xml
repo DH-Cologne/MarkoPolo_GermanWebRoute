@@ -1,0 +1,1264 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p><rs type="object">Iranian</rs>
+            <rs type="object" n="Bagh_59_1">jewellery</rs> and <rs type="object">small finds</rs> in
+               <rs type="object">religious context</rs></p>
+         <p>By <rs type="object">Natascha Bagherpour Kashani</rs></p>
+         <p>Keywords;<rs type="object" n="Bagh_59_2">Iran</rs>,<rs type="object" n="Bagh_59_3"
+               >Parthian</rs>,<rs type="object" n="Bagh_59_4">Sasanian</rs>,<rs type="object"
+               n="Bagh_59_5">finger-rings</rs>,<rs type="object" n="Bagh_59_6">beads</rs>.</p>
+         <p>واژگان کلیدی: <rs type="object">ایران</rs>، ا<rs type="object">شکانیان</rs>، <rs
+               type="object">ساسانیان</rs>، <rs type="object">انگشترها</rs>، <rs type="object">مهره
+               ها</rs></p>
+         <p/>
+         <p/>
+         <p>The items discovered in the <rs type="object" n="Bagh_59_7">Cale Gar mines</rs> at <rs
+               type="object" n="Bagh_59_8">Vesnave</rs> have added a <rs type="property">fresh
+               perspective</rs> to the <rs type="property">investigation</rs> of <rs type="object"
+               n="Bagh_59_9">pre-lslamic religion</rs>, as <rs type="property">emphasized
+            by</rs></p>
+         <p><rs type="object" n="Bagh_59_10">Overlaet</rs>, <rs type="object" n="Bagh_59_11">J.
+               Rose</rs> and <rs type="object" n="Bagh_59_12">P. Kreyenbroek</rs>.1 <rs
+               type="object">The finds</rs> from <rs type="object">Vesnave</rs>
+            <rs type="property">make an important contribution to our knowledge</rs>, not only <rs
+               type="property">for researching pre-lslamic religion</rs>, but also for <rs
+               type="property">visualising</rs> the <rs type="object" n="Bagh_59_13">physical
+               artefacts</rs> of <rs type="object" n="Bagh_59_14">ancient Iran</rs>.</p>
+         <p>The importance of the <rs type="property">study of</rs>
+            <rs type="object">jewellery finds</rs> from <rs type="object">Vesnave</rs></p>
+         <p>In <rs type="object">Vesnave</rs>, <rs type="object">two mines</rs>
+            <rs type="property" n="Bagh_59_15">were excavated</rs> by <rs type="object"
+               n="Bagh_59_16">a team of German and Iranian archaeologists</rs> in <rs type="object"
+               >several campaigns</rs>
+            <rs type="object" n="Bagh_59_17">from 2001 to 2004</rs>.2 They <rs type="property"
+               n="Bagh_59_18">discovered,</rs> mainly in <rs type="object">Cale Gar 1</rs>, <rs
+               type="object">a great number of artefacts</rs>, among them <rs type="object"
+               >jewellery</rs> - including <rs type="object">many beads</rs> ,<rs type="object"
+               >finger-rings</rs>, <rs type="object" n="Bagh_59_19">ear-rings</rs> and <rs
+               type="object" n="Bagh_59_20">pendants</rs> - and <rs type="object" n="Bagh_59_21"
+               >fragments of metal sheets</rs> , as well as much else. It is remarkable that these
+            objects were <rs type="property">found in such a con- text at Vesnave</rs>, because in
+               <rs type="object">Iran</rs> and the <rs type="object">wider Near East</rs>, <rs
+               type="object">jewellery</rs>
+            <rs type="property">has been unearthed predominantly</rs>
+            <rs type="object">in graves</rs>. <rs type="property">To excavate</rs> such an amount of
+               <rs type="object">artefacts</rs> in the <rs type="object">Cale Gar caves</rs> has
+            been, apart from their importance for <rs type="property">the investigation</rs> of the
+               <rs type="object">pre-lslamic religion</rs>, a milestone for research into <rs
+               type="object">small finds</rs> in <rs type="object">Iran</rs> and the <rs
+               type="object">Near East in general</rs>.</p>
+         <p>The study of these objects is of great interest for the <rs type="property"
+               >understanding of ritual practices</rs> at <rs type="object">Vesnave</rs>, <rs
+               type="property">since establishing their chronology and provenance may help broaden
+               knowledge</rs> of <rs type="object" n="Bagh_59_22">personal ornaments</rs> in ancient
+               <rs type="object">Iran</rs>.</p>
+         <p><rs type="object">A short introduction</rs> to the <rs type="object">history of
+               research</rs> into <rs type="object">jewellery found</rs> in <rs type="object"
+               >Iran</rs></p>
+         <p><rs type="object">Jewellery</rs> from <rs type="object">the Near East</rs> - which <rs
+               type="property">has much potential for fruitful comparisons to the finds from
+               </rs><rs type="object">Vesnave</rs>, <rs type="object">especially the beads</rs> -
+            has been <rs type="property">methodically investigated</rs>
+            <rs type="property">by</rs>
+            <rs type="property">a number of scholars</rs>. One of</p>
+         <p>C f. contributions by Overlaet, Rose and Kreyenbroek, in this volume,</p>
+         <p>Stollner/Mir Eskanderi 2003.</p>
+         <p><rs type="property">the most famous works</rs> is by <rs type="object" n="Bagh_59_23">H.
+               Beck</rs> , who <rs type="property" n="Bagh_59_24">assembled</rs><rs type="object"
+               n="Bagh_59_25"> the first classification system for beads</rs> . Other <rs
+               type="object">essential publications</rs> include those by <rs type="object"
+               n="Bagh_59_26">P. Francis</rs> on <rs type="object" n="Bagh_59_27">Asian beads</rs> ;
+               <rs type="object" n="Bagh_59_28">B. Musche</rs> on <rs type="object">Parthian</rs>
+            and <rs type="object">Sasanian</rs> jewellery; <rs type="object" n="Bagh_59_29">M.
+               Spaer</rs> on <rs type="object">glass</rs> in the <rs type="object">Israel
+               Museum</rs>; and a revealing article by <rs type="object" n="Bagh_59_30">St. J.
+               Simpson</rs> on <rs type="object" n="Bagh_59_31">Sasanian beads</rs> . <rs
+               type="property">Wide-ranging excavation reports</rs> and <rs type="property"
+               >investigations of jewellery</rs> offer a <rs type="object">spectrum of
+               comparisons</rs> for <rs type="object">the finds</rs> at <rs type="object"
+               >Vesnave</rs>-.^ However, <rs type="object" n="Bagh_59_32">Near Eastern
+               archaeology</rs> and, in particular, <rs type="object" n="Bagh_59_33">Iranian
+               archaeology</rs>
+            <rs type="object">lack a basic study of cultic</rs> and <rs type="object">everyday
+               material of the kind</rs>
+            <rs type="property">found at Vesnave</rs>. Regarding the <rs type="object">Sasanian
+               period</rs>, <rs type="object">Simpson</rs>
+            <rs type="property">writes</rs>: “<rs type="property">Corresponding studies</rs> of <rs
+               type="object">everyday material culture</rs>
+            <rs type="property">are scarce yet a number of sites have been excavated</rs> (.,.)a</p>
+         <p><rs type="object">The finds</rs></p>
+         <p>For <rs type="object">a description</rs> of <rs type="object" n="Bagh_59_34">mine Gale
+               Gar 1</rs> , t<rs type="property">he reader is referred to the article by</rs>
+            <rs type="object" n="Bagh_59_35">Thomas Stollner</rs> in <rs type="object">this volume.
+               A large amount of artefacts</rs> were <rs type="property">discovered there</rs>,
+            while <rs type="object" n="Bagh_59_35">Cale Gar 2</rs>
+            <rs type="property">yielded just a few finds</rs> from a <rs type="object">humid
+               corner</rs>. <rs type="object">Ceramics</rs>, whether <rs type="object"
+               n="Bagh_59_36">complete vessels</rs> or <rs type="object">fragments</rs>, <rs
+               type="property">were found in mine 1</rs>; <rs type="object" n="Bagh_59_37">further
+               fragments of textiles</rs> , <rs type="object" n="Bagh_59_38">animal bones</rs> , <rs
+               type="object" n="Bagh_59_39">wood</rs> and <rs type="object" n="Bagh_59_40">wooden
+               vessels</rs> , as well as <rs type="object" n="Bagh_59_41">other organic
+               material</rs> like <rs type="object" n="Bagh_59_42">nuts</rs> and <rs type="object"
+               n="Bagh_59_43">baked remains</rs> , <rs type="property">were also found
+            there</rs>.</p>
+         <p><rs type="property">Among the finds from</rs>
+            <rs type="object">Cale Gar 1 and 2</rs>, <rs type="object">small finds</rs> - <rs
+               type="object">jewellery artefacts primarily</rs> - <rs type="property">represent a
+               significant group</rs>. First and foremost, <rs type="object">beads</rs> and <rs
+               type="object">pendants</rs> are <rs type="object">a major group</rs>, <rs
+               type="property" n="Bagh_59_44">made by</rs>
+            <rs type="object" n="Bagh_59_45">different techniques</rs> and from <rs type="object"
+               >different materials,</rs> but mainly <rs type="object" n="Bagh_59_46">glass</rs> and
+               <rs type="object" n="Bagh_59_47">stone</rs>. Furthermore, <rs type="object"
+               n="Bagh_59_48">coins</rs>, <rs type="object" n="Bagh_59_49">metal finger</rs> and <rs
+               type="object">ear-rings</rs> and <rs type="object">a glass finger-ring</rs>
+            <rs type="property">were discovered</rs>, as well as <rs type="object" n="Bagh_59_50"
+               >figurative objects</rs>, <rs type="object" n="Bagh_59_51">inlays</rs>, <rs
+               type="object" n="Bagh_59_52">settings</rs>, <rs type="object" n="Bagh_59_53">chain
+               links</rs>, <rs type="object" n="Bagh_59_54">a few ornaments for clothes</rs>, <rs
+               type="object" n="Bagh_59_55">bells</rs> and <rs type="object" n="Bagh_59_56">metal
+               sheets</rs> (<rs type="object" n="Bagh_59_47">plain or with figurative </rs>or<rs
+               type="object" n="Bagh_59_48"> plant depiction</rs></p>
+         <p>N. Bagherpour Kashani). Other finds include a <rs type="object">glass vessel</rs> and a
+               <rs type="object">fragment of</rs>
+            <rs type="object">one</rs>, <rs type="object">an arrow head</rs>, <rs type="object">a
+               strap-end</rs>, and <rs type="object">a whetstone</rs>.</p>
+         <p>N. Bagherpour Kashani</p>
+         <p> </p>
+         <p><rs type="object">The date</rs> of <rs type="object">the Sacred Cave 1</rs></p>
+         <p><rs type="property">So far, it has proven possible to date mine 1</rs> at <rs
+               type="object">Vesnave</rs> roughly by <rs type="object">C-analysis</rs> and by <rs
+               type="object">coin finds</rs>. From the bottom of the <rs type="object">cultic
+               context</rs>, <rs type="object">charcoal</rs> was <rs type="object">collected</rs>
+            and <rs type="object">analysed</rs>. <rs type="property">The beginning of cultic
+               activity can thus be assigned to </rs><rs type="object">900-781 BC</rs>, while <rs
+               type="object">the use of the site</rs>
+            <rs type="object">seems to have ended in the early Islamic period</rs>, based on the <rs
+               type="object">final coin find</rs> (<rs type="object">Fig. I</rs>).10 <rs
+               type="property">This coin is </rs><rs type="object">a silver derham</rs> of <rs
+               type="object">the Umayyad period</rs>. Due to <rs type="object">its state of
+               preservation</rs>, <rs type="property">it is not possible to read the date</rs>, but
+               <rs type="object">limits can be set between 661 and 750 AD</rs>. <rs type="property"
+               >Other finds seem to confirm these chronological limits</rs> for <rs type="object"
+               >the sacrificial cave</rs> (see below).</p>
+         <p>Although <rs type="object">charcoal</rs> and <rs type="object">coins</rs>
+            <rs type="property">indicate</rs>
+            <rs type="property">the beginning and the rough end of the use of </rs><rs type="object"
+               >the cave </rs><rs type="property">as a </rs><rs type="object">holy place</rs>, <rs
+               type="property">they can obviously not demonstrate the kind of use</rs>, <rs
+               type="object">the manner of deposition and the changes</rs> during <rs type="object"
+               >the c. 1500 years of its existence</rs> for <rs type="property">that purpose</rs>.
+               <rs type="property">Examining jewellery found in</rs>
+            <rs type="object">Cale Gar 1 and 2</rs>
+            <rs type="property">will answer some of these questions</rs>. <rs type="property"
+               >Investigations may be able to specify the dates of the deposits</rs> and <rs
+               type="property">give insights into the procedure of deposition.</rs></p>
+         <p>Following is a <rs type="property">general introduction to the beads and
+               finger-rings</rs> from <rs type="object">Vesnave</rs>, followed by the presentation
+            of <rs type="object">selected find groups</rs>, such as <rs type="object">gold-in-glass
+               beads</rs>, <rs type="object">etched carnelian beads</rs> and <rs type="object"
+               >finger-rings with bird ornaments</rs>, <rs type="object">spirals</rs> and <rs
+               type="property">one find with a </rs><rs type="object">conical bezel.</rs></p>
+         <p><rs type="object">Beads</rs>, <rs type="object">pendants</rs> and <rs type="object"
+               >spacers</rs></p>
+         <p><rs type="object">Beads</rs> - <rs type="property">quantified simply by their
+               number</rs> - <rs type="property">account for the largest part of small finds at
+               Vesnave</rs>. They <rs type="property">consist of many different materials</rs>, but
+               <rs type="object">predominantly glass</rs>, and <rs type="property">were fabricated
+               using different</rs></p>
+         <p><rs type="property">techniques</rs>. The <rs type="object">excavators</rs> found <rs
+               type="object">beads of monochrome</rs>
+            <rs type="object">opaque</rs> or <rs type="object">translucent glass</rs>, and <rs
+               type="property">their colours were mainly</rs>
+            <rs type="object">yellow</rs>, <rs type="object">green</rs>, <rs type="object"
+               >dark/black</rs>, <rs type="object">brown</rs> and <rs type="object">different shades
+               of blue</rs>. <rs type="property">Few beads were</rs>
+            <rs type="object">turquoise</rs>, <rs type="object">lilac</rs>, <rs type="object"
+               >orange</rs> or <rs type="object">white</rs>. <rs type="property">An analysis of the
+               material has not yet been carried out</rs>, therefore concerning <rs type="object"
+               >the opaque beads</rs>, <rs type="property">it is not clear whether they were
+               originally manufactured of </rs><rs type="object">frit</rs><rs type="property"> or
+               </rs><rs type="object">glass</rs>; but it seems that <rs type="property">they mainly
+               consist of glass.12</rs></p>
+         <p>Some beads are <rs type="object">multi-coloured</rs>, <rs type="property">others consist
+               of two different coloured layers</rs>. So-called <rs type="object">mosaic beads</rs>,
+               <rs type="object">different kinds of eye beads</rs> and so-called <rs type="object"
+               >gold-in-glass beads</rs> stand out from the <rs type="object">assemblage</rs>.13 <rs
+               type="property">Their manufacturing processes are of great interest</rs>; that used
+            for the <rs type="object">gold-in-glass beads</rs> will be explained below. Besides
+            colours, the <rs type="property">Vesnave beads have different shapes</rs>; <rs
+               type="property">they vary from</rs>
+            <rs type="object">simple spherical beads</rs> to <rs type="object">disc</rs>, <rs
+               type="object">cylindrical</rs>, <rs type="object">double-conical</rs>, <rs
+               type="object">rectangular</rs>, <rs type="object">rhombic</rs>, <rs type="object"
+               >hexagonal shapes</rs>, <rs type="object">corner-less cube</rs> and <rs type="object"
+               >so-called melon-shaped beads</rs> (<rs type="object">No. 6448</rs>, <rs
+               type="object">Fig. 2</rs>).</p>
+         <p>Besides glass ones, <rs type="object">stone beads</rs>
+            <rs type="property">make up a large proportion of the finds</rs>. These are mainly <rs
+               type="object">carnelian beads of shapes</rs>
+            <rs type="property">similar to those named above</rs>; but <rs type="object">other
+               materials</rs>
+            <rs type="property">used include</rs>
+            <rs type="object">garnet</rs>, <rs type="object">jet</rs>, <rs type="object"
+               >chalcedony</rs>, <rs type="object">rock crystal</rs>, <rs type="object"
+               >hematite</rs>, plus a few of <rs type="object">turquoise</rs> and <rs type="object"
+               >lapis lazuli</rs> of <rs type="object">poor quality</rs>. More <rs type="object"
+               >precious beads</rs> were <rs type="property">made of</rs>
+            <rs type="object">silver</rs>, <rs type="object">gold</rs> and <rs type="object"
+               >amber</rs>, while <rs type="property">some other beads were made of</rs>
+            <rs type="object">bone</rs>, <rs type="object">cowry</rs> and <rs type="object">other
+               shells.</rs></p>
+         <p><rs type="object"> INCLUDEPICTURE
+               "/Users/massoomeh.niknia/Desktop/OCR-articles-final-excavation reports-germany2/4th
+               article-Iranian jewellery and small finds in religious
+               context-bagherpour/media/image1.jpeg" \* MERGEFORMATINET INCLUDEPICTURE
+               "/Users/massoomeh.niknia/Desktop/OCR-articles-final-excavation reports-germany2/4th
+               article-Iranian jewellery and small finds in religious
+               context-bagherpour/media/image1.jpeg" \* MERGEFORMATINET INCLUDEPICTURE
+               "/Users/massoomeh.niknia/Desktop/OCR-articles-final-excavation reports-germany2/4th
+               article-Iranian jewellery and small finds in religious
+               context-bagherpour/media/image1.jpeg" \* MERGEFORMATINET INCLUDEPICTURE
+               "C:\\Users\\niknia.m\\Desktop\\media\\image1.jpeg" \* MERGEFORMATINET INCLUDEPICTURE
+               "\\\\localhost\\Users\\oeide\\sciebo\\koln\\forskning\\besok\\Niknia\\Tagging\\Test3\\work\\media\\image1.jpeg"
+               \* MERGEFORMATINET Fig. 2Glass bead from Cale Gar 1 at VeSnave. Find no. 6448. D. 1.7
+               cm. Scale 1:1. Photo © DBMFig. lv Islamic coin found in Cale Gar 1 at Vesnave. Find
+               no. 4456. D. 2.44 cm. Scale 1:1. Photo © DBMEarly in the twentieth century</rs>, <rs
+               type="object">G. Eisen</rs>
+            <rs type="property">wrote</rs>: “<rs type="property">A bead is a unit of a necklace</rs>
+            and <rs type="property">perforated by one or several bores</rs>”.* This definition
+            should be further <rs type="property">elaborated</rs>. <rs type="property">A bead is
+               usually a small artefact of a specific shape</rs> and <rs type="property">made from a
+               specific material</rs>; <rs type="property">it can be worn as a necklace with other
+               beads, sewn on to textiles or connected to fibulae or other objects</rs>. In <rs
+               type="object">Vesnave</rs>, <rs type="property">the beads were obviously not
+               deposited in the form of necklaces</rs>, <rs type="property">but as single
+            items</rs>. Thus, <rs type="property">a bead can present itself as an individual
+               object.</rs>
+            <rs type="property">Its characteristic is the</rs>
+            <rs type="property">string-hole through the middle</rs>, while <rs type="property"
+               >pendants have a peripheral hole and spacers two or more holes</rs>. Identified at
+               <rs type="object">Vesnave</rs> and <rs type="property">fitting this
+               categorisation</rs> are <rs type="object">several pendants</rs>
+            <rs type="property">made of glass, stone, bronze and amber</rs>
+            <rs type="property">and two spacer beads</rs>, <rs type="property">one of glass and one
+               of lapis lazuli</rs>.</p>
+         <p> INCLUDEPICTURE "/Users/massoomeh.niknia/Desktop/OCR-articles-final-excavation
+            reports-germany2/4th article-Iranian jewellery and small finds in religious
+            context-bagherpour/media/image1.jpeg" \* MERGEFORMATINET INCLUDEPICTURE
+            "/Users/massoomeh.niknia/Desktop/OCR-articles-final-excavation reports-germany2/4th
+            article-Iranian jewellery and small finds in religious
+            context-bagherpour/media/image1.jpeg" \* MERGEFORMATINET INCLUDEPICTURE
+            "/Users/massoomeh.niknia/Desktop/OCR-articles-final-excavation reports-germany2/4th
+            article-Iranian jewellery and small finds in religious
+            context-bagherpour/media/image1.jpeg" \* MERGEFORMATINET INCLUDEPICTURE
+            "C:\\Users\\niknia.m\\Desktop\\media\\image1.jpeg" \* MERGEFORMATINET INCLUDEPICTURE
+            "\\\\localhost\\Users\\oeide\\sciebo\\koln\\forskning\\besok\\Niknia\\Tagging\\Test3\\work\\media\\image1.jpeg"
+            \* MERGEFORMATINET </p>
+         <p><rs type="object">Fig. 2</rs></p>
+         <p><rs type="object">Glass bead</rs> from <rs type="object">Cale Gar 1</rs> at <rs
+               type="object">VeSnave</rs>. <rs type="object">Find no. 6448</rs>. <rs type="object"
+               >D. 1.7 cm.</rs>
+            <rs type="object">Scale 1:1</rs>. <rs type="object">Photo © DBM</rs></p>
+         <p>Fig. l</p>
+         <p><rs type="object">v Islamic coin</rs>
+            <rs type="property">found in</rs>
+            <rs type="object">Cale Gar 1</rs> at <rs type="object">Vesnave.</rs>
+            <rs type="object">Find no. 4456</rs>. <rs type="object">D. 2.44</rs> cm. <rs
+               type="object">Scale 1:1.</rs> Photo © <rs type="object">DBM</rs></p>
+         <p/>
+         <p><rs type="object">61Iranian jewellery and small finds in religious contextEtched
+               carnelian beads</rs></p>
+         <p>61</p>
+         <p>Iranian jewellery and small finds in religious context</p>
+         <p><rs type="property">A significant category discovered solely in mine 1</rs>
+            <rs type="property">are the so-called </rs><rs type="object">etched carnelian
+            beads</rs>. <rs type="object">These artefacts</rs>
+            <rs type="property">are of simple shapes and ornamented by white zig-zag lines, waves,
+               dots or a “plant-like” pattern</rs> (<rs type="object">Fig. 3,a-c</rs>). As mentioned
+            above. <rs type="object">Beck,</rs> “<rs type="property">the founding father of bead
+               studies</rs>”, was <rs type="property">the first to establish a chronology of the
+               manufacture of etched carnelian beads</rs>. <rs type="property">He distinguished
+               three phases</rs>: <rs type="object">the early period. A, which ended ca. 2000
+               BC</rs>; <rs type="object">the middle period, B, from 300 BC to AD 200;</rs> and <rs
+               type="object">the late period, C, AD 600 to 1000</rs>. <rs type="property">This
+               chronological framework is still consulted frequently as an important source for
+               studies of etched carnelian beads</rs>. However, <rs type="object">hiatuses</rs> in
+            the dating are obvious. Later works by <rs type="object">E. Mackay</rs>, <rs
+               type="object">M. Dikshit</rs>, <rs type="object">E. During Caspers</rs>, <rs
+               type="object">J. Reade</rs>, <rs type="object">A. de Waele</rs> and <rs type="object"
+               >E. Haerinck</rs>
+            <rs type="property">expanded</rs>
+            <rs type="object">Beck's studies</rs>, but <rs type="property">did not fill the gaps
+               completely</rs>. Although <rs type="property">no recent study of etched beads has
+               succeeded in presenting an adapted chronology for the entire Near East</rs>, <rs
+               type="object">etched carnelian beads</rs>
+            <rs type="property">are discussed more often than other kinds of stone beads</rs>,
+            because, <rs type="property">unlike plain carnelian beads, their ornamentation tends to
+               be chronologically significant.</rs></p>
+         <p><rs type="object">The technique of etching beads</rs></p>
+         <p><rs type="property">Fig. 3,a-cEtched carnelian beads from Cale Gar 1 at Vesnave. Find
+               nos. 1679b, 1106,1577. L 1.1 cm- 1.4 cm. Scale 2:1. Photos and drawings © DBMThe
+               reason why such decoration remains preserved today</rs>
+            <rs type="property">and has not been washed away</rs>, lies in <rs type="property">a
+               special method of decorating stone beads</rs> “used in <rs type="object">South
+               Asia</rs>
+            <rs type="object">as early as the</rs>
+            <rs type="object">mid-3rd millennium BC'</rs>. <rs type="property">Etching them while
+               applying</rs>
+            <rs type="object">an alkaline</rs>
+            <rs type="object">solution</rs> together <rs type="property">with heat made the white
+               ornamentation firm against corrosion</rs>. <rs type="property">The earliest finds of
+               etched carnelian beads appeared</rs> in <rs type="object">Mesopotamia</rs> and <rs
+               type="object">the Indus Valley</rs>; indeed, the <rs type="object">latter</rs>
+            <rs type="property">seems to be the region of their origin</rs>. <rs type="object">In
+               1930</rs>, <rs type="object">E. Mackay</rs>
+            <rs type="property">travelled to</rs>
+            <rs type="object">Sindh/lndia</rs>
+            <rs type="property">to learn</rs>
+            <rs type="property">the technique of etching carnelian beads</rs>, and <rs type="object"
+               >three years later</rs>
+            <rs type="property">an account of his experience was published</rs> in <rs type="object"
+               >the journal “Man”;</rs></p>
+         <p>Fig. 3,a-c</p>
+         <p><rs type="object">Etched carnelian beads</rs> from <rs type="object">Cale Gar 1</rs> at
+               <rs type="object">Vesnave</rs>. <rs type="object">Find nos.</rs>
+            <rs type="object">1679b, 1106,1577.</rs> L <rs type="object">1.1 cm- 1.4 cm</rs>. <rs
+               type="object">Scale</rs>
+            <rs type="object">2:1</rs>. Photos and drawings © <rs type="object">DBM</rs></p>
+         <p>“First, <rs type="object">he [the craftsman</rs>] carefully <rs type="property"
+               >macerated</rs>
+            <rs type="property">the tips of young shoots of a bush</rs> that is common <rs
+               type="object">in Sindh</rs> and the <rs type="object">Panjab</rs>, <rs type="object"
+               >capparis aphylla</rs> (<rs type="object">Sindhi: Kirar</rs>), in <rs type="object">a
+               glazed pottery bowl</rs>
+            <rs type="object">with the aid of a wooden stick with a rounded end.</rs> (...) <rs
+               type="object">Sahebdino</rs>{name of person} [the <rs type="object">craftsman</rs>]
+            then <rs type="object">ground ordinary European</rs></p>
+         <p><rs type="property">washing soda to a fine powder</rs>, and <rs type="property">after
+               carefully mixing it with water in a cup</rs>, <rs type="property">he poured a small
+               quantity on the Kirar together to a semi-fluid mass</rs>. This the old man strained
+               <rs type="property">through a piece of linen into a large empty mussel-shell, and the
+               paint was ready</rs>. <rs type="object">A piece of polished red carnelian</rs>, such
+            as <rs type="object">a bead</rs> or <rs type="object">plaque</rs> for <rs type="object"
+               >a talisman</rs> or <rs type="object">ring</rs>, is <rs type="property">then
+               fixed</rs>
+            <rs type="property">in a setting</rs>
+            <rs type="property">made of clay mixed</rs> with <rs type="object">cotton-wool</rs>.
+            When the <rs type="property">setting is dry, an inscription or design is</rs></p>
+         <p><rs type="property">N. Bagherpour Kashaniwritten or drawn upon the exposed polished
+               surface of the cornelian with a reed pen filled with the paint</rs> (...) <rs
+               type="object">A sure and steady hand</rs>
+            <rs type="property">is needed to prepare an elaborate design</rs>, for <rs
+               type="property">re-touching can only be done successfully before baking</rs>, and
+            even then <rs type="property">traces of bungling may be evident</rs>. <rs type="object"
+               >The painted piece of cornelian</rs>, still in its setting, is placed <rs
+               type="object">on a piece of sheet-iron</rs> and laid on the embers of a charcoal fire
+            until the design is perfectly dry. The cornelian is then buried in the embers and the
+            fire slowly fanned for <rs type="object">about five minutes</rs>. <rs type="property"
+               >The stone on removal from the fire is taken from its clay setting and placed under a
+               small cup to cool down gradually</rs>. After about <rs type="object">ten minutes</rs>
+            it <rs type="property">is sufficiently cooled</rs>, and at this stage <rs
+               type="property">Sahebdino rubbed his piece of cornelian briskly with a
+            rag</rs>(…)”</p>
+         <p>N. Bagherpour Kashani</p>
+         <p>There can be <rs type="object">little room</rs> for doubt that carnelian beads were <rs
+               type="property">etched by a similar process</rs> in <rs type="object">pre-Islamic
+               times</rs>. <rs type="property">Besides technical capability</rs>, <rs
+               type="property">learning from experience is essential to etch stones</rs>: <rs
+               type="property">Not every carnelian is equally fireproof:</rs> some stones <rs
+               type="property">turn pink</rs>, <rs type="property">white or even opaque</rs>
+            <rs type="property">when heated too much or too long</rs>.22</p>
+         <p><rs type="object">Dating the etched carnelian beads</rs></p>
+         <p><rs type="object">At Vesnave</rs>, <rs type="object">seventeen ornamented carnelian
+               beads</rs>
+            <rs type="property">were found</rs>. <rs type="property">They vary from</rs>
+            <rs type="object">fragmented</rs> to <rs type="object">the complete</rs>, and from <rs
+               type="object">orange</rs> to <rs type="object">red</rs> in colour. <rs
+               type="property">They correspond</rs> to <rs type="object">Beck’s Type I</rs>
+            <rs type="property">with a white pattern on bare stone</rs>.23 By comparing parallel
+            finds from <rs type="object">Hassani Mahale, Rudbar</rs> {place} and <rs type="object"
+               >Djuben</rs> {place}, <rs type="object">all sites</rs> in <rs type="object">the
+               northern Iranian province of Gilan</rs> {place}, <rs type="property">it would appear
+               that</rs> the <rs type="object">Cale Gar beads</rs>
+            <rs type="property">with simple patterns of dots or lines</rs> should be dated to the
+               <rs type="object">1st mill. BC</rs>; but <rs type="object">their rough shape</rs>,
+               <rs type="object">careless decoration</rs> and <rs type="object">the colour of the
+               stone</rs>
+            <rs type="property">indicate a later dating</rs>, i.e. <rs type="object">at least the
+               end of the 1st mill. BC</rs> or <rs type="object">the 1st centuries AD</rs>.24 Other
+            beads <rs type="object">with zig-zags</rs>, <rs type="object">dots</rs> and <rs
+               type="object">crosswise decorations</rs>
+            <rs type="property">seem to belong to </rs><rs type="object">the centuries after
+               Christ</rs><rs type="property">,</rs> particularly <rs type="object">the Sasanian
+               period</rs>, i.e. <rs type="object">from the 3rd to the 7th century</rs>.25 <rs
+               type="object">Analogies</rs> are known from <rs type="object">the region of
+               Germi</rs> in <rs type="object">northern Iran</rs> and from <rs type="object">Ed-Dur
+               in Arabia</rs>.26</p>
+         <p><rs type="property">More elaborate</rs>
+            <rs type="object">“plant” decorations</rs>
+            <rs type="property">date from </rs><rs type="object">the late Sasanian</rs><rs
+               type="property"> or </rs><rs type="object">early Islamic period</rs>. At <rs
+               type="object">Vesnave,</rs>
+            <rs type="object">two pieces</rs> with such <rs type="object">adornments</rs>
+            <rs type="property">have been discovered</rs>. Comparisons exist from a grave <rs
+               type="object">in Samad/Arabia</rs></p>
+         <p>Mackay 1933,145.</p>
+         <p>Beck 1933, 384-388.</p>
+         <p>Simpson 2003, 66.</p>
+         <p>Egami et at. 1966, PI. 43 3-6; Tehran National Museum nos. 5858; 5857; 3815b.</p>
+         <p>Personal observation in the Tehran National Museum no. 3487; De Waele/Haerinck 2006, 37
+            Fig. 5,c.</p>
+         <p>from <rs type="object">Iranian Neysapur</rs> {place} and from <rs type="object"
+               >Crimea</rs> {place}. <rs type="property">Even though they are few in number</rs>,
+            the etched carnelian <rs type="property">beads at Vesnave can be dated to a period</rs>
+            <rs type="object">from the end of the 1st mill. BC to the early Islamic era.</rs></p>
+         <p><rs type="object">Gold-in-glass beads</rs></p>
+         <p><rs type="property">As impressive as the etched beads are the so-called gold-in-glass
+               beads</rs>, which <rs type="property">have been discovered in</rs>
+            <rs type="object">Cale Gar 1</rs>. <rs type="object">They have not been found in large
+               numbers</rs>, but <rs type="property">they are beautifully produced pieces for which
+               </rs><rs type="object">a special technique</rs><rs type="property"> was
+            employed</rs>: a <rs type="object">gold foil</rs>
+            <rs type="property">is applied on a glass core and then enclosed in translucent,
+               colourless glass</rs>. This <rs type="property">manufacturing technique</rs> gave
+            them <rs type="object">a fine appearance</rs>, and <rs type="property">analysing it
+               helps to date them</rs>. T<rs type="property">hese beads were abundant</rs> from <rs
+               type="object">Antiquity</rs> to <rs type="object">Medieval times</rs>, and <rs
+               type="property">have been discovered</rs> in <rs type="object">Asia</rs>, as well as
+            in <rs type="object">Europe,</rs> including <rs type="object">Great Britain</rs>. On the
+               <rs type="object">island of Rhodes</rs>, <rs type="property">remains of unfinished
+               gold-in-glass beads were found</rs> and <rs type="property">dated to</rs>
+            <rs type="object">the late 3rd cent. BC.</rs></p>
+         <p><rs type="object">G. Boon</rs> and <rs type="object">Spaer</rs>
+            <rs type="property">suggest</rs>
+            <rs type="object">Egypt</rs> as <rs type="property">the region of origin for </rs><rs
+               type="object">the gold-in-glass method </rs><rs type="property">of manufacture</rs>,
+            while <rs type="object">D. Barag</rs>
+            <rs type="property">argues that</rs>
+            <rs type="property">it emanated from </rs><rs type="object">Phoenician roots </rs><rs
+               type="property">and other scholars prefer </rs><rs type="object">India</rs>. <rs
+               type="property">As an early instance of gold-in-glass manufacturing</rs>, <rs
+               type="property">the </rs><rs type="object">so-called Canosa Group </rs><rs
+               type="property">of </rs><rs type="object">the 1st half of the 3rd cent. BC</rs>
+            <rs type="property">has been considered by</rs>
+            <rs type="object">several scholars</rs>. <rs type="property">This refers to two well
+               preserved </rs><rs type="object">glass bowls </rs><rs type="property">with </rs><rs
+               type="object">decorated golden inlays</rs>, <rs type="property">found</rs>
+            <rs type="object">alongside eight glasses</rs>, i<rs type="object">n a grave in southern
+               Italy</rs>, <rs type="property">having probably been produced</rs> i<rs type="object"
+               >n a Ptolemaic workshop</rs>. According to <rs type="object">D. Harden</rs> and <rs
+               type="object">A. Oliver,</rs>
+            <rs type="property">no </rs><rs type="object">gold-in-glass beads </rs><rs
+               type="property">have been found </rs><rs type="object">of an earlier date </rs><rs
+               type="property">than the </rs><rs type="object">Canosa Group</rs>. This fact,
+            together with the remains of the glass workshop at <rs type="object">Rhodes</rs> that
+            date to the <rs type="object">late 3rd century BC</rs>, <rs type="property">implies that
+               </rs><rs type="object">gold-in-glass beads </rs><rs type="property">were not produced
+               </rs><rs type="object">before the 3rd cent. BC</rs><rs type="property">, in
+               particular</rs>
+            <rs type="object">the late 3rd century.</rs> As mentioned above, <rs type="property"
+               >such beads continued to be produced</rs> into <rs type="object">medieval times</rs>,
+            though <rs type="property">evidence for </rs><rs type="object">continuity of manufacture
+               </rs><rs type="property">in </rs><rs type="object">the Islamic Near East </rs><rs
+               type="property">is scarce.</rs></p>
+         <p><rs type="object">The gold-in-glass technique</rs></p>
+         <p><rs type="object">Special skill and experience</rs>
+            <rs type="property">were needed to produce</rs>
+            <rs type="object">gold-in-glass beads</rs>. The <rs type="property">craftsman had to put
+               a</rs>
+            <rs type="object">flimsy</rs>
+            <rs type="property">gold sheet on a glass core</rs> and <rs type="object">cover</rs><rs
+               type="property"> this combination with </rs><rs type="object">translucent glass</rs>.
+               <rs type="object">The two glass layers</rs>
+            <rs type="property">should then respond equally to heat</rs>, i.e. they <rs
+               type="property">should have </rs><rs type="object">the same coefficient </rs><rs
+               type="property">of expansion</rs>; <rs type="property">otherwise the glass would
+               break during the process</rs>. <rs type="property">Another challenge was not to harm
+               the </rs><rs type="object">gold foil </rs><rs type="property">that could be as thin
+               as </rs><rs type="object">0.0001 mm</rs><rs type="property">, and so was very easily
+               damaged</rs>.35 According to <rs type="object">Spaer</rs>, <rs type="property"
+               >earlier beads were finished individually, and show </rs><rs type="object">larger
+               string-holes </rs><rs type="property">and </rs><rs type="object">a thicker exterior
+               glass layer</rs>; these were of <rs type="object">better quality</rs>. <rs
+               type="property">In later times beads were treated with </rs><rs type="object">tools
+               </rs><rs type="property">and probably </rs><rs type="object">moulds</rs>.36 <rs
+               type="object">Grooves in the glass </rs><rs type="property">point to </rs><rs
+               type="object">fabrication of the beads </rs><rs type="property">by drawing </rs><rs
+               type="object">glass tubes</rs>: “<rs type="property">A </rs><rs type="object">drawn
+               tube </rs><rs type="property">was, after cooling, covered with </rs><rs type="object"
+               >a very thin layer of metal foil</rs><rs type="property">, probably attached with
+               </rs><rs type="object">the aid of an adhesive</rs>. <rs type="property">Another,
+               slightly larger, </rs><rs type="object">pre-manufactured tube </rs><rs
+               type="property">was then slipped over the first.</rs>”. <rs type="property">This
+               </rs><rs type="object">gold-in-glass tube </rs><rs type="property">was then divided
+               by a tool into </rs><rs type="object">single beads</rs><rs type="property">,</rs> or
+               <rs type="property">into beads with two or more segments</rs>. <rs type="object"
+               >Spaer</rs> writes furthermore: “(...) There is nonetheless a clear indication that
+               <rs type="property">the beads finished individually by hot-working</rs> are <rs
+               type="object">Hellenistic</rs> and probably, at least in part, also <rs type="object"
+               >early Roman</rs>. Beads finished by the use of <rs type="object">segmenting
+               molds</rs> are mainly <rs type="object">Roman or later</rs> ”38</p>
+         <p/>
+         <p>At <rs type="object">Vesnave</rs>, <rs type="property">about </rs><rs type="object">20
+               gold-in-glass beads</rs><rs type="property"> (complete or fragmented) were
+               excavated</rs>. They may either be carefully <rs type="object">hot-worked single
+               spherical beads</rs>; or they are <rs type="object">ovaloid</rs>, <rs type="object"
+               >cylindrical</rs>, <rs type="object">multi-row</rs>, “<rs type="object"
+            >collared</rs>” or of the so-called <rs type="object">mulberry-shape</rs>. The majority
+            are quite well conserved, and preserve their original brilliance (Fig. 4,a-c).</p>
+         <p><rs type="object">Parallels to the gold-in glass beads</rs></p>
+         <p>Based on the <rs type="object">manufacturing technique</rs> and <rs type="object">on
+               parallel finds</rs>, e. g. from a <rs type="object">pithos grave</rs> in <rs
+               type="object">Germi/lran</rs> {place},39 the <rs type="object">spherical beads</rs>
+            of <rs type="object">Cale Gar 1</rs> should be dated from the <rs type="object">3rd
+               cent. BC onwards</rs>, stretching into the <rs type="object">so-called Parthian
+               period</rs>. The only <rs type="object">collared bead</rs> and the <rs type="object"
+               >segmented beads</rs>
+            <rs type="property">can be dated to a somewhat </rs><rs type="object">later
+               period</rs><rs type="property">, on the basis of comparisons to artefacts from
+               </rs><rs type="object">Tappe Hatam/northern Iran </rs><rs type="property">and
+               H</rs><rs type="object">assani Mahale/ northern Iran</rs>.40 <rs type="property">They
+               belong to the </rs><rs type="object">Parthian</rs><rs type="property"> and
+            early</rs></p>
+         <p>Iranian jewellery and small finds in religious context63Alekseeva 1978, 27. The
+            gold-in-glass technique differs from the method to put gold on heated glass. In that
+            case, the gold melts into the glass.Spaer 1993,10-16.Spaer 1993,10.Spaer 2001,131.35
+            Personal observation In the Tehran National Museum no. 3473. 40 Personal observation In
+            the Tehran National Museum, nos. 3490,3487, 3258. For the term “collared" see Spaer
+            2001,132.Spaer 1993,20.Spaer 2001,134.</p>
+         <p>Iranian jewellery and small finds in religious context</p>
+         <p>63</p>
+         <p>Alekseeva 1978, 27. The gold-in-glass technique differs from the method to put gold on
+            heated glass. In that case, the gold melts into the glass.</p>
+         <p>Spaer 1993,10-16.</p>
+         <p>Spaer 1993,10.</p>
+         <p>Spaer 2001,131.</p>
+         <p>35 Personal observation In the Tehran National Museum no. 3473. 40 Personal observation
+            In the Tehran National Museum, nos. 3490,3487, 3258. For the term “collared" see Spaer
+            2001,132.</p>
+         <p>Spaer 1993,20.</p>
+         <p>Spaer 2001,134.</p>
+         <p><rs type="object">Sasanian periods</rs>. For <rs type="object">one piece, a quite
+               crude-looking mulberry bead</rs> from <rs type="object">Vesnave</rs>, <rs
+               type="property">the date can be narrowed down with more confidenc</rs>e. <rs
+               type="object">Parallel examples</rs> from <rs type="object">Crimea</rs> and <rs
+               type="object">Hassani Mahale/northern Iran</rs>, together with the <rs type="object"
+               >special shape</rs> and <rs type="object">manufacturing method</rs>, <rs
+               type="property">allow us to assign this object to the </rs><rs type="object"
+               >centuries between the 1st and 3rd cent. AD</rs><rs type="property">.</rs> According
+            to <rs type="object">Spaer</rs>, <rs type="object">mulberry beads with small bosses</rs>
+            <rs type="property">belong to</rs> the <rs type="object">late Hellenistic</rs> and early
+               <rs type="object">Roman periods</rs>, and <rs type="property">then went out of
+               fashion in</rs>
+            <rs type="object">the 1st cent. AD:</rs> Then “(...) <rs type="object">cruder beads
+               </rs><rs type="property">with </rs><rs type="object">larger bosses </rs><rs
+               type="property">came into use.”</rs>41</p>
+         <p/>
+         <p/>
+         <p/>
+         <p/>
+         <p/>
+         <p/>
+         <p>limitations</p>
+         <p><rs type="property">It is significant that </rs><rs type="object">further beads </rs><rs
+               type="property">were found </rs><rs type="object">in Cale Gar 1</rs><rs
+               type="property">, which do not belong with the </rs><rs type="object">gold-in-glass
+               beads </rs><rs type="property">yet seem to imitate these.</rs>
+            <rs type="property">They can be identified as </rs><rs type="object"
+            >double-layered</rs>, <rs type="property">but instead of being covered by a </rs><rs
+               type="object">gold foil</rs><rs type="property">, they are coated by a </rs><rs
+               type="object">yellow layer </rs><rs type="property">or </rs><rs type="object">an
+               orange- </rs><rs type="property">or </rs><rs type="object">yellow-coloured
+               translucent </rs><rs type="property">exterior </rs><rs type="object">glass
+               layer</rs><rs type="property">.</rs>
+            <rs type="property">At </rs><rs type="object">Vesnave</rs><rs type="property">, </rs><rs
+               type="object">eight pieces </rs><rs type="property">were considered to be imitations
+               of </rs><rs type="object">gold-in-glass beads</rs>. <rs type="object">Their shapes
+               </rs><rs type="property">include </rs><rs type="object">the single-spherical</rs><rs
+               type="property">, </rs><rs type="object">the double- and the triple-rowed.</rs>
+            <rs type="property">It appears that </rs><rs type="object">these kinds of beads </rs><rs
+               type="property">were </rs><rs type="object">produced </rs><rs type="property">as
+               imitations in periods later than </rs><rs type="object">the genuine gold-in-glass
+               beads</rs><rs type="property">, at least after the </rs><rs type="object"
+               >gold-in-glass technique </rs><rs type="property">had been fully developed.</rs>
+            <rs type="property">Apparently not much attention has yet been paid to </rs><rs
+               type="object">objects of this kind</rs>, because <rs type="property">comparisons
+               scarcely exist in the available literature.</rs></p>
+         <p><rs type="object">Dating gold-in-glass beads</rs></p>
+         <p>Obviously the <rs type="object">gold-in-glass beads</rs> at <rs type="object"
+               >Vesnave</rs> point to a <rs type="object">chronological range</rs>
+            <rs type="property">from </rs><rs type="object">the beginning of gold-in-glass
+               production</rs><rs type="property"> in </rs><rs type="object">the 3rd cent. BC until
+               the 3rd century AD</rs><rs type="property">, at least on account of the group of
+               </rs><rs type="object">spherical</rs><rs type="property">, </rs><rs type="object"
+               >carefully worked beads</rs><rs type="property">.</rs>
+            <rs type="property">The group of segmented beads very probably belong to </rs><rs
+               type="object">the centuries AD,</rs><rs type="property"> stretching into the </rs><rs
+               type="object">early Sasanian period</rs><rs type="property">, </rs><rs type="object"
+               >the 3rd to 4th cen</rs><rs type="property">t. </rs><rs type="object">AD</rs><rs
+               type="property">, while the only mulberry bead belongs </rs><rs type="object">to the
+               two centuries either side of the birth of Christ</rs><rs type="property">.</rs>
+            <rs type="property">The imitations may date to a </rs><rs type="object">later
+               period</rs><rs type="property">, perhaps the </rs><rs type="object">late Sasanian
+               </rs><rs type="property">- or even, at a stretch, </rs><rs type="object">early
+               Islamic times.</rs>
+            <rs type="property">As </rs><rs type="object">Spaer</rs><rs type="property"> has judged,
+               </rs><rs type="object">the manufacture of gold-in-glass </rs><rs type="property"
+               >beads probably continued in </rs><rs type="object">Egypt</rs><rs type="property">
+               and </rs><rs type="object">western Asia </rs><rs type="property">well into the
+               </rs><rs type="object">Islamic era</rs><rs type="property">, but the evidence is
+               meager; and then, already, greater numbers were being produced in </rs><rs
+               type="object">Europe</rs>.42</p>
+         <p/>
+         <p>Fig. 4,a-cGold-in-glass beads from Vesnave, Find no. 1195 b-d; D.0.65-0.8 cm. Scale 2':
+            1. Photo © DBM</p>
+         <p>Fig. 4,a-c</p>
+         <p><rs type="object">Gold-in-glass beads</rs> from <rs type="object">Vesnave</rs>, <rs
+               type="object">Find no.</rs>
+            <rs type="object">1195 b-d</rs>; <rs type="object">D.</rs></p>
+         <p><rs type="object">0.65-0.8 cm</rs>. <rs type="object">Scale 2': 1.</rs> Photo © <rs
+               type="object">DBM</rs></p>
+         <p/>
+         <p/>
+         <p/>
+         <p/>
+         <p/>
+         <p/>
+         <p/>
+         <p/>
+         <p/>
+         <p/>
+         <p/>
+         <p/>
+         <p/>
+         <p/>
+         <p/>
+         <p/>
+         <p/>
+         <p/>
+         <p/>
+         <p/>
+         <p/>
+         <p/>
+         <p/>
+         <p/>
+         <p/>
+         <p>N^Bagherpourjta^</p>
+         <p>N^Bagherpourjta^</p>
+         <p><rs type="object">Finger-rings</rs></p>
+         <p>Fi g. 5Selected finger-rings found in mine 1 at Vesnave. Inner Dm. about 1.4 cm-1.8 cm.
+            Scale ca. 1:1. Photo © DBM<rs type="property">Apart from the beads, the </rs><rs
+               type="object">rings</rs><rs type="property"> found at </rs><rs type="object"
+               >Vesnave</rs><rs type="property"> form a</rs>
+            <rs type="object">revealing group</rs>. <rs type="property">Besides artefacts generally
+               characterised as rings and ear-rings, </rs><rs type="object">the most significant
+               category </rs><rs type="property">is that of </rs><rs type="object"
+               >finger-rings</rs><rs type="property">, about </rs><rs type="object">142</rs><rs
+               type="property"> being discovered.</rs>
+            <rs type="object">In mine 1,</rs>
+            <rs type="object">bronze</rs>, <rs type="object">iron</rs> and <rs type="object"
+               >silver</rs>
+            <rs type="object">finger-rings</rs>
+            <rs type="property">were found</rs>, as well as one <rs type="object">glass</rs>
+            one.</p>
+         <p>Fi g. 5</p>
+         <p><rs type="object">Selected finger-rings</rs> found in <rs type="object">mine 1 at
+               Vesnave</rs>. <rs type="object">Inner Dm. about</rs> 1.4 cm-1.8 cm. Scale ca. 1:1.
+            Photo © DBM</p>
+         <p><rs type="property">Because of a </rs><rs type="object">lack of material analysis
+               </rs><rs type="property">for </rs><rs type="object">the most metal objects</rs><rs
+               type="property">, it is not always clear whether or not the material of the ring has
+               been determined correctly in each case.</rs> Additionally, <rs type="property">the
+               </rs><rs type="object">iron rings </rs><rs type="property">are heavily corroded</rs>,
+            and so, <rs type="property">in many cases, it is not ascertainable whether they were
+               </rs><rs type="object">finger-rings </rs><rs type="property">or </rs><rs
+               type="object">ear-rings.</rs></p>
+         <p>However, <rs type="property">at least </rs><rs type="object">one third of the rings
+               </rs><rs type="property">are well preserved - assorted </rs><rs type="object"
+               >copper</rs><rs type="property">, </rs><rs type="object">bronze</rs><rs
+               type="property"> and </rs><rs type="object">silver</rs><rs type="property"> - and
+               they have been partially restored.</rs>
+            <rs type="property">They contain </rs><rs type="object">bezels</rs>, and <rs
+               type="property">some are ornamented with </rs><rs type="object">figurative </rs><rs
+               type="property">or </rs><rs type="object">non-figurative incisions</rs><rs
+               type="property">.</rs>
+            <rs type="property">Others have bezels containing inlays (at least one piece)</rs>, and
+               <rs type="property">some still contain </rs><rs type="object">green or blue glass
+               </rs><rs type="property">(</rs><rs type="object">four pieces</rs><rs type="property"
+               >).</rs>
+            <rs type="object">One ring </rs><rs type="property">is made of </rs><rs type="object">a
+               piece of bronze wire</rs> and <rs type="property">its ends are </rs><rs type="object"
+               >two overlapping spirals</rs><rs type="property">.</rs>
+            <rs type="object">Forty-two finger- rings </rs><rs type="property">have been verified as
+               having incisions.</rs>
+            <rs type="object">The decoration of the rings</rs><rs type="property"> has been applied
+               on the </rs><rs type="object">wider part of the ring or on a round</rs><rs
+               type="property">, ovaloid, </rs><rs type="object">rhomb-shaped</rs><rs
+               type="property">, </rs><rs type="object">quadrangular</rs><rs type="property"> or
+               </rs><rs type="object">rectangular bezel</rs>, <rs type="object">most of which
+               </rs><rs type="property">is stepped and in some cases </rs><rs type="object"
+               >Insetted</rs> (Fig. 5). <rs type="property">The </rs><rs type="object"
+               >ornaments</rs><rs type="property"> are </rs><rs type="object">birds</rs><rs
+               type="property"> and </rs><rs type="object">one gryphon</rs><rs type="property">
+               (</rs><rs type="object">21 pieces</rs><rs type="property">), </rs><rs type="object">a
+               stag (one piece), schematic plant illustrations (three pieces)</rs>, <rs
+               type="object">pseudo-inscriptions (three pieces)</rs><rs type="property"> and
+               different </rs><rs type="object">non-figurative incisions </rs><rs type="property"
+               >such as </rs><rs type="object">lines</rs><rs type="property">, </rs><rs
+               type="object">circles with dots </rs><rs type="property">and </rs><rs type="object">a
+               cross or rings </rs><rs type="property">of </rs><rs type="object">modelled metal
+               </rs><rs type="property">(</rs><rs type="object">seven pieces</rs><rs type="property"
+               >).</rs>
+            <rs type="object">Descriptions of some of the finger-rings </rs><rs type="property"
+               >found at </rs><rs type="object">Vesnave</rs><rs type="property"> now
+            follow.</rs></p>
+         <p>Glass finger-ring</p>
+         <p><rs type="object">The only glass ring </rs><rs type="property">from </rs><rs
+               type="object">Vesnave</rs><rs type="property"> is a beautiful piece made of a
+               </rs><rs type="object">striped hoop</rs> (Fig. 6). <rs type="property">It was
+               manufactured of </rs><rs type="object">twisted yellow </rs><rs type="property">and
+               </rs><rs type="object">translucent colourless glass</rs><rs type="property">, and
+               </rs><rs type="object">a blue-white eye of opaque glass </rs><rs type="property">was
+               applied as a </rs><rs type="object">bezel</rs><rs type="property"> on the top of
+               it.</rs>
+            <rs type="object">Such glass rings </rs><rs type="property">were both worn in everyday
+               life and dedicated to </rs><rs type="object">sanctuaries</rs><rs type="property"
+               >.</rs></p>
+         <p><rs type="object">Technique</rs></p>
+         <p><rs type="object">A technique of producing larger glass rings </rs><rs type="property"
+               >for </rs><rs type="object">bracelets</rs><rs type="property"> is described by
+               </rs><rs type="object">Manfred Korfmann</rs>: <rs type="property">hot </rs><rs
+               type="object">monochrome glass </rs><rs type="property">is taken out of the </rs><rs
+               type="object">furnace </rs><rs type="property">by </rs><rs type="object"
+               >winding</rs><rs type="property"> a </rs><rs type="object">conical-ended rod</rs>,
+            and <rs type="property">the t</rs><rs type="object">urning </rs><rs type="property">and
+               </rs><rs type="object">swelling</rs><rs type="property"> of the </rs><rs
+               type="object">rod</rs><rs type="property"> produce a larger </rs><rs type="object"
+               >inner diameter </rs><rs type="property">of the ring</rs>; then, <rs type="property"
+               >by </rs><rs type="object">help of a tool</rs><rs type="property">, the </rs><rs
+               type="object">former ring bead </rs><rs type="property">is formed into a </rs><rs
+               type="object">seamless bracelet</rs>.</p>
+         <p>However, <rs type="property">in the case of </rs><rs type="object">the glass ring
+               </rs><rs type="property">from </rs><rs type="object">Vesnave</rs><rs type="property"
+               >, the </rs><rs type="object">method</rs><rs type="property"> seems to have been
+               different</rs>; <rs type="property">this is strongly suggested by the </rs><rs
+               type="object">thinning of the hoop</rs> and <rs type="object">discontinuity</rs><rs
+               type="property"> or</rs><rs type="object"> inconsistency</rs><rs type="property"> in
+               the </rs><rs type="object">yellow stripes </rs><rs type="property">just below the
+               </rs><rs type="object">bezel</rs>. <rs type="property">Obviously a </rs><rs
+               type="object">bi-coloured glass </rs><rs type="property">rod was produced first,</rs>
+            then <rs type="property">reheated and </rs><rs type="object">its ends </rs><rs
+               type="property">joined together</rs>. <rs type="object">Similar observations</rs>
+            <rs type="object">concerning technique </rs><rs type="property">and </rs><rs
+               type="object">appearance</rs><rs type="property"> can be made using </rs><rs
+               type="object">parallels from Gilan/northem Iran</rs> and <rs type="property">from the
+               </rs><rs type="object">Nasser D. Khalili Collection</rs>. <rs type="property">They
+               are made of </rs><rs type="object">translucent yellow glass</rs>
+            <rs type="property">plunged by </rs><rs type="object">stripes of yellow </rs><rs
+               type="property">and </rs><rs type="object">whitish opaque glass</rs> and <rs
+               type="property">seem to have been produced in the same way as the piece from </rs><rs
+               type="object">Vesnave</rs>. <rs type="property">Their </rs><rs type="object">bezel
+               </rs><rs type="property">consists of </rs><rs type="object">one red eye</rs><rs
+               type="property">.</rs></p>
+         <p><rs type="object">Dating the glass ring</rs></p>
+         <p><rs type="object">The piece </rs><rs type="property">from </rs><rs type="object">Gilan/
+               Northern Iran</rs><rs type="property"> belongs to </rs><rs type="object">the 1st—3rd
+               cent. AD,</rs> while <rs type="object">the ring from the Nasser D, Khalili
+               Collection</rs><rs type="property"> is roughly dated to </rs><rs type="object">the
+               1st—7-1 cent. AD</rs>; the <rs type="object">latter</rs><rs type="property"> is
+               believed to derive from</rs>
+            <rs type="object">Syria</rs> or <rs type="object">Iran</rs>.</p>
+         <p/>
+         <p/>
+         <p>Stem 2001, 357.</p>
+         <p>Korfmann 1966, 52-54.</p>
+         <p>Fukai 1977, 61 Fig. 70 PL 53-55; Wenzel 1993, glass ring no. 12.</p>
+         <p><rs type="property">65Iranian jewellery and small finds in religious contextFurther
+               </rs><rs type="object">comparisons</rs><rs type="property"> can be found from
+               </rs><rs type="object">collections</rs>, for instance <rs type="property">a </rs><rs
+               type="object">seamed ring </rs><rs type="property">with a </rs><rs type="object"
+               >round bezel </rs><rs type="property">from the </rs><rs type="object">Dobkin
+               Collection </rs><rs type="property">in the </rs><rs type="object">Israel
+            Museum</rs>.48 Nonetheless, <rs type="property">the appearance of </rs><rs type="object"
+               >the glass ring </rs><rs type="property">with, </rs><rs type="object">the striped
+               hoop </rs><rs type="property">discovered at </rs><rs type="object">Vesnave</rs>, <rs
+               type="object">its manufacturing method</rs> and the <rs type="object">parallels from
+               Gilan</rs>
+            <rs type="property">indicate</rs> a <rs type="object">date range between the 1st and;
+               4th cent. AD.</rs></p>
+         <p>65</p>
+         <p>Iranian jewellery and small finds in religious context</p>
+         <p><rs type="object">Metal finger-rings</rs>: “<rs type="object">Bird-rings</rs>”</p>
+         <p><rs type="property">Turning to </rs><rs type="object">the metal finger-rings </rs><rs
+               type="property">of </rs><rs type="object">Cale Gar 1</rs>, <rs type="object">most of
+               the ornamented rings</rs><rs type="property"> show a </rs><rs type="object"
+            >bird</rs>. <rs type="object">The animal symbols </rs><rs type="property">are either
+               </rs><rs type="object">embossed</rs><rs type="property"> carefully or </rs><rs
+               type="object">inscribed</rs><rs type="property"> by </rs><rs type="object">rough
+               incisions</rs> (Fig. 5).</p>
+         <p>Dating the “bird-rings”</p>
+         <p><rs type="property">In </rs><rs type="object">Qasr-e ’Abu Nasr near Shiraz/southern Iran
+               </rs><rs type="property">and in the </rs><rs type="object">tombs of Nubian
+               Qustul/Egypt</rs><rs type="property">, </rs><rs type="object">rings </rs><rs
+               type="property">have been discovered also showing </rs><rs type="object">bird
+               symbols</rs>. <rs type="property">With their </rs><rs type="object">ovaloid </rs><rs
+               type="property">and </rs><rs type="object">triangular bezels</rs><rs type="property"
+               >, and </rs><rs type="object">hoops</rs><rs type="property"> that too have </rs><rs
+               type="object">similarities</rs>, <rs type="property">they </rs><rs type="object"
+               >correspond</rs><rs type="property"> to </rs><rs type="object">the shapes of the
+               Vesnave rings</rs>. <rs type="object">These pieces</rs><rs type="property"> from
+               </rs><rs type="object">southern Iran </rs><rs type="property">and </rs><rs
+               type="object">Egypt</rs><rs type="property"> respectively were dated to </rs><rs
+               type="object">a period between 300 BC and 400 AD</rs><rs type="property">; and
+               </rs><rs type="object">to ca. 800 AD.49</rs></p>
+         <p><rs type="object">The bird-symbol</rs></p>
+         <p><rs type="property">It seems that </rs><rs type="object">bird symbols </rs><rs
+               type="property">were used over </rs><rs type="object">many generations</rs><rs
+               type="property"> in </rs><rs type="object">Iran</rs><rs type="property"> and </rs><rs
+               type="object">other regions.</rs>
+            <rs type="property">On </rs><rs type="object">Roman gems </rs><rs type="property">we
+               find </rs><rs type="object">birds</rs><rs type="property"> depicted, and even in
+               </rs><rs type="object">contemporary Iran</rs>, <rs type="property">birds represent
+               </rs><rs type="object">a positive symbol </rs>and <rs type="property">are believed to
+               bring </rs><rs type="object">good luck.</rs>50</p>
+         <p>Spaer 2001, 210, no. 491.</p>
+         <p>Frye 1973, nos. 33-47: Musche 1988, 309 PI. 108, top left; Beyer Williams 1991, Pi.
+            73,o,</p>
+         <p>Henig/MacGregor 2004, 96 Fig. 9; 102,9.105.</p>
+         <p><rs type="object">One spiral finger-ring</rs></p>
+         <p><rs type="property">While the </rs><rs type="object">“bird-rings” </rs><rs
+               type="property">appeared in </rs><rs type="object">great number </rs><rs
+               type="property">at </rs><rs type="object">Vesnave</rs>, <rs type="object">the spiral
+               finger-ring </rs><rs type="property">is </rs><rs type="object">the only example
+               </rs><rs type="property">of its kind,</rs>
+            <rs type="property">but </rs><rs type="object">a very significant one</rs> (Fig. 7). <rs
+               type="property">It is made </rs><rs type="object">of a piece of bronze wire</rs>, <rs
+               type="object">the ends </rs><rs type="property">of which are combined to create
+               </rs><rs type="object">two overlapping spirals</rs><rs type="property">.</rs></p>
+         <p><rs type="object">Dating spiral rings</rs></p>
+         <p><rs type="property">Already from the </rs><rs type="object">Mycenean period</rs><rs
+               type="property">, </rs><rs type="object">the 2nd half of the 2nd cent. BC</rs><rs
+               type="property">, </rs><rs type="object">a golden ring with just a single spiral
+               </rs><rs type="property">is known,</rs> while <rs type="object">a bronze ring with
+               two spirals </rs><rs type="property">dates back to the so-called </rs><rs
+               type="object">Geometric period, c. 900-800 BC</rs>. <rs type="object">These examples
+               </rs><rs type="property">do not match </rs><rs type="object">the piece </rs><rs
+               type="property">from </rs><rs type="object">Vesnave</rs><rs type="property">
+               exactly</rs>. Their overall appearance is different, because <rs type="object"
+               >they</rs><rs type="property"> were made more carefully</rs>; furthermore, <rs
+               type="property">neither has </rs><rs type="object">overlapping spirals</rs>. <rs
+               type="object">Rings with overlapping spirals </rs><rs type="property">seem to have
+               appeared in </rs><rs type="object">later times</rs>, as for example <rs
+               type="property">a </rs><rs type="object">golden finger-ring </rs><rs type="property"
+               >in </rs><rs type="object">the British Museum</rs><rs type="property"> which belongs
+               to </rs><rs type="object">the late Roman period</rs><rs type="property">, the
+               </rs><rs type="object">3rd/4th cent. AD</rs>, and <rs type="object">a variant
+               </rs><rs type="property">from </rs><rs type="object">Masjed-e Soleyman/lran</rs><rs
+               type="property">, made of </rs><rs type="object">two twisted bronze wires</rs><rs
+               type="property">, of </rs><rs type="object">the Parthian period, i.e. 3rd cent. BC -
+               AD 3rd cent</rs>. <rs type="object">Four bronze pieces with overlapping spirals
+               </rs><rs type="property">were found at </rs><rs type="object">Cheragali Tappe/
+               Gilan/lran</rs><rs type="property">, and were dated to the </rs><rs type="object"
+               >Sasanian period, the 3rd to 7th centuries AD</rs>.</p>
+         <p> INCLUDEPICTURE "/Users/massoomeh.niknia/Desktop/OCR-articles-final-excavation
+            reports-germany2/4th article-Iranian jewellery and small finds in religious
+            context-bagherpour/media/image7.jpeg" \* MERGEFORMATINET INCLUDEPICTURE
+            "/Users/massoomeh.niknia/Desktop/OCR-articles-final-excavation reports-germany2/4th
+            article-Iranian jewellery and small finds in religious
+            context-bagherpour/media/image7.jpeg" \* MERGEFORMATINET INCLUDEPICTURE
+            "/Users/massoomeh.niknia/Desktop/OCR-articles-final-excavation reports-germany2/4th
+            article-Iranian jewellery and small finds in religious
+            context-bagherpour/media/image7.jpeg" \* MERGEFORMATINET INCLUDEPICTURE
+            "C:\\Users\\niknia.m\\Desktop\\media\\image7.jpeg" \* MERGEFORMATINET INCLUDEPICTURE
+            "\\\\localhost\\Users\\oeide\\sciebo\\koln\\forskning\\besok\\Niknia\\Tagging\\Test3\\work\\media\\image7.jpeg"
+            \* MERGEFORMATINET Fig. 6Glass finger-ring from. Vesnave. Find no. 1903. Inner D. 1.5
+            emi Scale 1:1. Photo and drawing © DBM INCLUDEPICTURE
+            "/Users/massoomeh.niknia/Desktop/OCR-articles-final-excavation reports-germany2/4th
+            article-Iranian jewellery and small finds in religious
+            context-bagherpour/media/image8.jpeg" \* MERGEFORMATINET INCLUDEPICTURE
+            "/Users/massoomeh.niknia/Desktop/OCR-articles-final-excavation reports-germany2/4th
+            article-Iranian jewellery and small finds in religious
+            context-bagherpour/media/image8.jpeg" \* MERGEFORMATINET INCLUDEPICTURE
+            "/Users/massoomeh.niknia/Desktop/OCR-articles-final-excavation reports-germany2/4th
+            article-Iranian jewellery and small finds in religious
+            context-bagherpour/media/image8.jpeg" \* MERGEFORMATINET INCLUDEPICTURE
+            "C:\\Users\\niknia.m\\Desktop\\media\\image8.jpeg" \* MERGEFORMATINET INCLUDEPICTURE
+            "\\\\localhost\\Users\\oeide\\sciebo\\koln\\forskning\\besok\\Niknia\\Tagging\\Test3\\work\\media\\image8.jpeg"
+            \* MERGEFORMATINET Fig. 7Finger-ring of bronze wire bent to spirals, from Vesnave. Find
+            no. 4339a. Inner D. l.5cm. Scale 1:1. Photo and drawing' © DBMIn summary, <rs
+               type="object">the date ranges </rs><rs type="property">for </rs><rs type="object"
+               >these rings </rs><rs type="property">are still given </rs><rs type="object">in
+               rather approximate terms </rs><rs type="property">in the literature</rs>; but <rs
+               type="property">there are good indications that they were probably manufactured in
+               </rs><rs type="object">the centuries AD</rs><rs type="property">,</rs></p>
+         <p> INCLUDEPICTURE "/Users/massoomeh.niknia/Desktop/OCR-articles-final-excavation
+            reports-germany2/4th article-Iranian jewellery and small finds in religious
+            context-bagherpour/media/image7.jpeg" \* MERGEFORMATINET INCLUDEPICTURE
+            "/Users/massoomeh.niknia/Desktop/OCR-articles-final-excavation reports-germany2/4th
+            article-Iranian jewellery and small finds in religious
+            context-bagherpour/media/image7.jpeg" \* MERGEFORMATINET INCLUDEPICTURE
+            "/Users/massoomeh.niknia/Desktop/OCR-articles-final-excavation reports-germany2/4th
+            article-Iranian jewellery and small finds in religious
+            context-bagherpour/media/image7.jpeg" \* MERGEFORMATINET INCLUDEPICTURE
+            "C:\\Users\\niknia.m\\Desktop\\media\\image7.jpeg" \* MERGEFORMATINET INCLUDEPICTURE
+            "\\\\localhost\\Users\\oeide\\sciebo\\koln\\forskning\\besok\\Niknia\\Tagging\\Test3\\work\\media\\image7.jpeg"
+            \* MERGEFORMATINET </p>
+         <p>Fig. 6</p>
+         <p><rs type="object">Glass finger-ring</rs> from. <rs type="object">Vesnave</rs>. <rs
+               type="object">Find no. 1903</rs>. <rs type="object">Inner D. 1.5 emi</rs>
+            <rs type="object">Scale 1:1</rs>. Photo and drawing © <rs type="object">DBM</rs></p>
+         <p> INCLUDEPICTURE "/Users/massoomeh.niknia/Desktop/OCR-articles-final-excavation
+            reports-germany2/4th article-Iranian jewellery and small finds in religious
+            context-bagherpour/media/image8.jpeg" \* MERGEFORMATINET INCLUDEPICTURE
+            "/Users/massoomeh.niknia/Desktop/OCR-articles-final-excavation reports-germany2/4th
+            article-Iranian jewellery and small finds in religious
+            context-bagherpour/media/image8.jpeg" \* MERGEFORMATINET INCLUDEPICTURE
+            "/Users/massoomeh.niknia/Desktop/OCR-articles-final-excavation reports-germany2/4th
+            article-Iranian jewellery and small finds in religious
+            context-bagherpour/media/image8.jpeg" \* MERGEFORMATINET INCLUDEPICTURE
+            "C:\\Users\\niknia.m\\Desktop\\media\\image8.jpeg" \* MERGEFORMATINET INCLUDEPICTURE
+            "\\\\localhost\\Users\\oeide\\sciebo\\koln\\forskning\\besok\\Niknia\\Tagging\\Test3\\work\\media\\image8.jpeg"
+            \* MERGEFORMATINET </p>
+         <p>Fig. 7</p>
+         <p><rs type="object">Finger-ring of bronze wire bent to spirals</rs>, from <rs
+               type="object">Vesnave</rs>. <rs type="object">Find no. 4339a</rs>. <rs type="object"
+               >Inner D. l.5cm</rs>. <rs type="object">Scale 1:1</rs>. Photo and drawing' © <rs
+               type="object">DBM</rs></p>
+         <p>Fig. 8Bronze finger-ring from Vesnave. Find no. 1091. Inner D. 1.64 cm. Scale 1:1. Photo
+            and drawing © DBMand <rs type="property">were common in </rs><rs type="object">the Roman
+               </rs><rs type="property">as well as </rs><rs type="object">the Near Eastern
+               world.</rs></p>
+         <p>Fig. 8</p>
+         <p><rs type="object">Bronze finger-ring</rs> from <rs type="object">Vesnave</rs>. <rs
+               type="object">Find no. 1091</rs>. <rs type="object">Inner D. 1.64 cm</rs>. Scale 1:1.
+            Photo and drawing © <rs type="object">DBM</rs></p>
+         <p><rs type="object">Finger-ring with conical bezel</rs></p>
+         <p><rs type="object">In an upper layer of Cale Gar 1</rs><rs type="property">, another
+               </rs><rs type="object">unique bronze finger-ring</rs><rs type="property"> was
+               excavated</rs>, and <rs type="property">its shape points to </rs><rs type="object">a
+               late date of manufacture</rs><rs type="property">.</rs>
+            <rs type="object">The ring </rs><rs type="property">features a </rs><rs type="object"
+               >rectangular-based</rs>
+            <rs type="property">but </rs><rs type="object">conical bezel </rs><rs type="property"
+               >with </rs><rs type="object">a crosswise decoration</rs> (Fig. 8).</p>
+         <p><rs type="object">Dating rings</rs> with <rs type="object">a conical shaped
+            bezel</rs></p>
+         <p><rs type="object">An analogous bronze shape</rs><rs type="property"> is found in the
+               </rs><rs type="object">Nasser D. Khalili Collection</rs>
+            <rs type="property">and dates to </rs><rs type="object">the 7th or 8th centuries
+            AD</rs>. In this regard, it is especially interesting that the <rs type="object">editor
+               of the report on the finger-rings of the Nasser D. Khalili Collection </rs><rs
+               type="property">mentioned </rs><rs type="object">comparable items </rs><rs
+               type="property">from </rs><rs type="object">Mostagedda/Middle Egypt, dated to about
+               AD 800</rs><rs type="property">, and from an excavation at </rs><rs type="object"
+               >Rey/ Iran</rs><rs type="property">.</rs>
+            <rs type="object">Another Iranian example </rs><rs type="property">has been found from
+               </rs><rs type="object">the Islamic Neishapur</rs><rs type="property"> of </rs><rs
+               type="object">the 7th to 12th cent. AD</rs>. On the basis of these comparisons, even
+            though they either come from collections or are dated quite roughly, it is plausible
+            that <rs type="object">the ring </rs><rs type="property">found at </rs><rs type="object"
+               >Vesnave</rs><rs type="property"> belongs to </rs><rs type="object">the early Islamic
+               period</rs><rs type="property">.</rs></p>
+         <p><rs type="object">Metal sheets and arms</rs></p>
+         <p><rs type="property">Many questions remain about the finds from Vesnave</rs>, foremost on
+            the <rs type="object">figurative metal sheets</rs> that <rs type="property">were found
+               mainly</rs>
+            <rs type="object">in Cale Gar 1</rs> (Fig. 9,a-f). <rs type="property">These are
+               </rs><rs type="object">fragmented gold </rs><rs type="property">and - in greater
+               number - </rs><rs type="object">silver</rs></p>
+         <p>Fig. 9,a-f►</p>
+         <p><rs type="object">55Selected silver and gold sheets</rs> from <rs type="object"
+               >Vasnave</rs>. Photo © <rs type="object">DBM</rs></p>
+         <p>55</p>
+         <p>67Iranian jewellery and small finds in religious context</p>
+         <p>67</p>
+         <p/>
+         <p/>
+         <p>Fig. 10Bronze arrow head from Vesnave. Find no. 4492a. L. 3.82 cm. Photo and drawing ©
+            DBM</p>
+         <p>Fig. 10</p>
+         <p><rs type="object">Bronze arrow head</rs> from <rs type="object">Vesnave</rs>. <rs
+               type="object">Find no. 4492a</rs>. <rs type="object">L. 3.82 cm</rs>. Photo and
+            drawing © <rs type="object">DBM</rs></p>
+         <p><rs type="object">sheets</rs>
+            <rs type="property">showing </rs><rs type="object">a figure </rs><rs type="property">or
+               </rs><rs type="object">plant motifs</rs>; <rs type="property">others are </rs><rs
+               type="object">plain</rs><rs type="property">, </rs><rs type="object">cut </rs><rs
+               type="property">and/or </rs><rs type="object">bent into a certain shape</rs><rs
+               type="property">, or </rs><rs type="object">punched</rs><rs type="property">.</rs>
+            <rs type="property">It is plausible that </rs><rs type="object">some sheets </rs><rs
+               type="property">represent an </rs><rs type="object">eye</rs><rs type="property">,
+               </rs><rs type="object">a foot </rs><rs type="property">or </rs><rs type="object"
+               >other parts of the body</rs>. <rs type="property">One piece obviously resembles a
+               </rs><rs type="object">fish</rs><rs type="property">, another a </rs><rs
+               type="object">bird</rs><rs type="property">.</rs>
+            <rs type="object">One silver sheet </rs><rs type="property">is embossed with a </rs><rs
+               type="object">figure</rs><rs type="property">, </rs><rs type="object">the gender of
+               which </rs><rs type="property">has yet to be discussed</rs>.</p>
+         <p><rs type="object">Weapons</rs><rs type="property"> are rare at </rs><rs type="object"
+               >Vesnave</rs>, <rs type="property">t</rs><rs type="object">he only offensive
+               weapon</rs><rs type="property"> being a bronze arrow head</rs> (Fig. 10); <rs
+               type="object">its head </rs><rs type="property">is </rs><rs type="object"
+               >double-bladed </rs><rs type="property">and </rs><rs type="object">leaf-shaped
+               </rs><rs type="property">with </rs><rs type="object">a spike at the cylindrical
+               socket.</rs></p>
+         <p><rs type="object">Dating the arrow head</rs></p>
+         <p/>
+         <p/>
+         <p><rs type="object">Analogies to the arrow head </rs><rs type="property">have been found
+               in </rs><rs type="object">Bogazkoy in Turkey</rs>, and <rs type="property">have been
+               dated to </rs><rs type="object">the 7th cent. BC</rs><rs type="property">; in
+               </rs><rs type="object">Ziwiye, Iran</rs><rs type="property">, from the </rs><rs
+               type="object">Hasanlu IIIB </rs><rs type="property">period, </rs><rs type="object"
+               >750-600 BC</rs><rs type="property">; and from </rs><rs type="object">Zendan-e
+               Soleyman, Iran</rs><rs type="property">, from </rs><rs type="object">the 2nd quarter
+               of the 7th cent. BC.</rs><rs type="property"/>
+            <rs type="property">As the comparisons show, </rs><rs type="object">the arrow head
+               </rs><rs type="property">dates to </rs><rs type="object">the beginning of the site’s
+               use as a votive place</rs>. <rs type="property">It is either </rs><rs type="object"
+               >an early deposit </rs><rs type="property">or </rs><rs type="object">an acquisition
+               </rs><rs type="property">which entered the </rs><rs type="object">cave</rs><rs
+               type="property"> at </rs><rs type="object">a later date</rs><rs type="property"
+               >.</rs></p>
+         <p>Conclusion</p>
+         <p><rs type="object">Of the many finds </rs><rs type="property">of Vesnave, just </rs><rs
+               type="object">a few </rs><rs type="property">have been presented here</rs>, but <rs
+               type="property">they give an </rs><rs type="object">indication of the chronology of
+               the jewellery </rs><rs type="property">deposited and found in </rs><rs type="object"
+               >mine 1</rs>. Although <rs type="object">the sacrificial site</rs><rs type="property"
+               > had already been in use from about </rs><rs type="object">the 8th cent. BC,</rs><rs
+               type="property"> obviously </rs><rs type="object">jewellery</rs><rs type="property">
+               was deposited at </rs><rs type="object">Vesnave</rs><rs type="property"> </rs><rs
+               type="object">not earlier than 300 BC, centuries </rs><rs type="property">after
+               </rs><rs type="object">the first ritual use of the caves</rs><rs type="property"> as
+               recorded in the </rs><rs type="object">votive deposit</rs><rs type="property"
+            >.</rs></p>
+         <p><rs type="property">This agrees with </rs><rs type="object">beads</rs><rs
+               type="property"> and </rs><rs type="object">rings</rs><rs type="property"> being
+               distributed predominantly </rs><rs type="object">in the front part of cave 1</rs>.
+            Additionally, <rs type="object">the artefacts</rs><rs type="property"> show that there
+               was </rs><rs type="object">a peak period for depositing jewellery </rs><rs
+               type="property">in </rs><rs type="object">the centuries AD</rs><rs type="property">,
+               a hypothesis supported by </rs><rs type="object">finds of coins </rs><rs
+               type="property">from the time of the </rs><rs type="object">Parthian</rs><rs
+               type="property"> and </rs><rs type="object">Sasanian</rs><rs type="property"
+               > </rs><rs type="object">kings</rs><rs type="property">.</rs> Furthermore, <rs
+               type="object">the Umayyad coin </rs><rs type="property">and </rs><rs type="object"
+               >discoveries of a finger-ring </rs><rs type="property">and </rs><rs type="object"
+               >beads</rs><rs type="property"> indicate that </rs><rs type="object">people</rs><rs
+               type="property"> deposited </rs><rs type="object">objects</rs><rs type="property"> at
+               </rs><rs type="object">Vesnave</rs><rs type="property"> until </rs><rs type="object"
+               >early Islamic times</rs><rs type="property">, albeit few.</rs></p>
+         <p><rs type="property">The </rs><rs type="object">artefacts</rs><rs type="property"> from
+               </rs><rs type="object">Vesnave</rs><rs type="property"> found in </rs><rs
+               type="object">Cale Gar 1 and 2 </rs><rs type="property">are related to one
+               another</rs> and <rs type="property">seem to have a </rs><rs type="object">special
+               meaning</rs><rs type="property">, since they were used as</rs></p>
+         <p><rs type="object">votive pieces</rs><rs type="property">.</rs>
+            <rs type="object">Further research </rs><rs type="property">is needed better to
+               understand how </rs><rs type="object">worship</rs><rs type="property"> was practiced
+               at </rs><rs type="object">Vesnave</rs><rs type="property">.</rs></p>
+         <p>Nonetheless, based on the finds which are discussed in this article, some statements can
+            be made already; <rs type="object">Jewellery</rs><rs type="property"> always had a
+               </rs><rs type="object">particular part to play in oblation</rs><rs type="property">,
+               and in </rs><rs type="object">Cale Gar 1 </rs><rs type="property">a significant
+               amount was found.</rs>
+            <rs type="object">Some categories of jewellery</rs><rs type="property">, such as
+               </rs><rs type="object">the plain carnelian beads</rs><rs type="property">, seem to
+               have </rs><rs type="object">been quite common</rs><rs type="property">, while others
+               were </rs><rs type="object">more distinctive and hence valuable</rs>. For example,
+               <rs type="object">etched carnelian beads </rs><rs type="property">and </rs><rs
+               type="object">gold-in-glass beads </rs><rs type="property">were especially </rs><rs
+               type="object">precious objects </rs><rs type="property">in </rs><rs type="object">a
+               rural region </rs><rs type="property">in the </rs><rs type="object">ancient
+               world</rs><rs type="property">, </rs><rs type="object">their manufacture</rs><rs
+               type="property"> requiring </rs><rs type="object">special skills</rs><rs
+               type="property">.</rs>
+            <rs type="property">Like the </rs><rs type="object">amber beads </rs><rs type="property"
+               >discovered, they may be imports from far afield</rs>.60 <rs type="property">As for
+               the </rs><rs type="object">“bird” finger-rings</rs><rs type="property">, </rs><rs
+               type="object">their symbols and meaning</rs><rs type="property"> must have been
+               </rs><rs type="object">familiar</rs><rs type="property"> to the </rs><rs
+               type="object">ancient people of Vesnave </rs><rs type="property">since they were
+               deposited frequently.</rs>
+            <rs type="property">The </rs><rs type="object">glass finger-ring</rs><rs type="property"
+               >, </rs><rs type="object">the metal sheets </rs><rs type="property">and </rs><rs
+               type="object">the only weapon</rs><rs type="property"> not merely represent </rs><rs
+               type="object">exceptional finds</rs>, but also still leave many questions
+            unanswered.</p>
+         <p>Bibliography</p>
+         <p>Barag 1990</p>
+         <p>D. Barag, The prelude to Hellenistic gold-glass, in:</p>
+         <p>von Saldem (ed.), Annales du lie Congres de l*Asso- cation Internationale pour
+            I’Histoire du Ver (Amsterdam 1990) 19-25.</p>
+         <p>Beck 1933</p>
+         <p>H. C Beck, Etched camelian beads. The Antiquaries Journal 13,1933, 384-398.</p>
+         <p>Beyer Williams 1991</p>
+         <p>Beyer Williams, Meroitic remains from Qustul Cemetery Q, Ballana Cemertery B, and a
+            Ballana Settlement, Part 2: Registers and plates. Excavations between Abu Simbel and the
+            Sudan Frontier 8 (Chicago 1991).</p>
+         <p>For the results of the investigation of amber beads from Vesnave, see
+            Bagherpour/Roustaei/Sttillner, in this volume.</p>
+         <p>N. Bagherpour KashaniBoehmer 1972 R. M. Boehmer, Die Klelnfunde von Bogazkoy. Aus den
+            Grabungskampagnen 1931-1939 und 1952-1969. Bogazkoy - Hattusa 7, Wissenschaftliche
+            Veroffentlichun- gen der Deutschen Orient-Gesellschaft 87 (Berlin 1972). Boon 1977</p>
+         <p>N. Bagherpour Kashani</p>
+         <p>G. Boon, Gold-in-glass beads from the ancient world. Britannia 8,1977,193-202.</p>
+         <p>Caspers 1972</p>
+         <p>Caspers, Etched camelian beads. Bulletin of the Institute of Archaeology 8,1972,
+            83-98.</p>
+         <p>Stollner et ai 2004 Th. Stollner/R. Slotta/A. Vatandoust (eds.), Persiens Anti- ke
+            Pracht, Bergbau - Handwerk - Archaologie. Katalog der Ausstellung des Deutschen
+            Bergbau-Museums Bochum vom 28. November 2004 bis 29. Mai 2005 2004. Veroffentlichungen
+            aus dem Deutschen Bergbau-Mu- seum Bochum 128 (Bochum 2004).</p>
+         <p>De Waele 2008 A. De Waele, The small finds of ed-Dur (Umm al-Qai- wain, U.A.E.). A study
+            of their characteristics, typology, dating and context with an analysis of their spatial
+            distribution and the trade in and beyond the Perisan Gulf in the late 1st c. BC to the
+            2nd c. AD (Ghent 2008, unpublished).</p>
+         <p>De Waele/Haerinck 2006 A. De Waele/E. Haerinck, Etched (carnelian) beads from Northeast
+            and Southeast Arabia. Arabian Achaeology and Epigraphy 17, 2006, 31-40.</p>
+         <p>Dikshit 1949</p>
+         <p>M. G. Dikshit, Etched beads in India (Poona 1949). Dikshit 1969</p>
+         <p>M.G. Dikshit, History of Indian glass (Bombay 1969). Egami et al. 1966</p>
+         <p>N.Egami/S. Fukai/S. Masuda, Dailaman II. The excavations at Nowruzmahale and Khoramrud
+            1960, The Tokyo University Iraq-lran archaeological expedition reports 7 (Tokyo
+            1966).</p>
+         <p>Eisen 1916</p>
+         <p>G. Eisen, Eye-beads from the earliest time to the present American Journal of
+            Archaeology 20,1916,1-27. Francis 1988/89 P. Francis, Glass beads in Asia. Part I.
+            Introduction. Asian Perspectives 28,1988/89,1-21.</p>
+         <p>Francis 2002</p>
+         <p>P. Francis, Asias maritime bead trade. 300 B.C. to the present (Honolulu 2002).</p>
+         <p>Frye 1973</p>
+         <p>R.N. Frye, Sasanian remains from Qasr-i Abu Nasr. Seals, sealings and coins (Cambidge
+            1973).</p>
+         <p>Fukai 1977</p>
+         <p>S.Fukai, Persian glass (New York, Tokyo, Kyoto 1977). Ghazian/Ghasemi 2011</p>
+         <p>M. Ghazian/M. Ghasemi, Report on the conservation of selected metal objects from the
+            ancient mines of Vesna- veh, in: A. Vatandoust/H. Parzinger/B. Helwing (eds.), Early
+            mining and metallurgy on the Central Iranian Plateau. The first five years of work.
+            Archaologie in Iran und Turan 9 (Mainz 2011) 613-615.</p>
+         <p>Ghirshman 1938 R. Ghirshman, Ausgrabungen von Sialk, pres de Kashan 1933, 1934, 1937 0).
+            Serie Archeologlque 5 (Paris 1938).</p>
+         <p>Harden 1968</p>
+         <p>D. B. Harden, The Canosa group of Hellenistic glasses in the British Museum. Journal of
+            Glass Studies 10,1968, 21-47.</p>
+         <p>Henig/MacGregor 2004 M. Henig/A. MacGregor, Catalogue of the engraved gems and
+            finger-rings in the Ashmolean Museum 2. Roman. British Archaeological Reports,
+            International Series 1332 (Oxford 2004).</p>
+         <p>Jenkins/Keene 1982 M. Jenkins/M. Keene, Islamic jewellery in the Metropolitan Museum of
+            Art (New York 1982).</p>
+         <p>Korfmann 1966 M. Korfmann, Zur Herstellung nahtloser Glasringe. Bonner Jahrbiicher des
+            Rheinischen Landesmuseums in Bonn und des Rheinischen Amtes fur Bodendenkmal- pflege im
+            Landschaftsverband Rheinland und des Ver- ; \eifjs von Altertumsffeunden im Rheinlande
+            166, 1966, 48-61.</p>
+         <p>Liu 2003</p>
+         <p>R. K. Liu, Horace C. Beck and his influence on non-academic bead research and
+            collecting. In* I. C. Glover/ Hughes Brock/J. Henderson (eds.). Ornaments from the past.
+            Bead studies after Beck. A book on glass and semiprecious stone beads in history and
+            archaeology for archaeologists, jewellery historians and collectors (London 2003)
+            1-9.</p>
+         <p>Mackay 1933</p>
+         <p>L E. Mackay, Decorated camelian beads. Man 150,193|j 143-146.</p>
+         <p>Mackay 1937</p>
+         <p>Mackay, Bead making in Ancient Sind. Journal of the American Oriental Society 57,
+            1937,1-15.</p>
+         <p>Marschall 1907</p>
+         <p>H. Marschall, Catalogue of the finger rings, Greek, Etruskan, and Roman in the
+            department of the British Museum (London 1907).</p>
+         <p>Medvedskaya 1982 ' I. N. Medvedskaya, Iran: Iron Age I. British Archaeological Reports,
+            International Series 126 (Oxford 1982). Moorey 1985</p>
+         <p>P. R. S. Moorey, Materials and manufacture in Ancient Mesopotamia: The evidence of
+            archaeology and art. Metals and metalwork, glazed materials and glass. British
+            Archaeological Reports, International Series 237 (Oxford 1985).</p>
+         <p>Musche 1988</p>
+         <p>B. Musche, Vorderasiatischer Schmuck zur Zeit der Arsa- kiden und der Sasaniden.
+            Handbuch der Orientalistik 7, Vol. 1, Section 2 (Leiden 1988).</p>
+         <p>Oliver 1969</p>
+         <p>A. Oliver, A gold-glass fragment in the Metropolitan Museum of Art. Journal of Glass
+            Studies 11,15)69,9-16. Von der Osten/Naumann 1961 H. H. Von der Osten/R. Naumann,
+            Takht-i Suleiman. Te- heraner Forschungen 1 (Berlin 1961).</p>
+         <p>Reade 1979</p>
+         <p>j. Reade, Early etched beads and the Indus-Mesopota- mian Trade. British Museum
+            Occasional Papers 2 (London 1979).</p>
+         <p>Simpson 2003 St. J. Simpson, Sasanian beads: The evidence of art, archaeology and
+            history. In: I. C. Glover/H. Hughes Brock/</p>
+         <p>Iranian jewellery and small finds in religious contextyrit Henderson (eds.), Ornaments
+            from the past. Bead studies after Beck. A book on glass and semiprecious stone beads in
+            history and archaeology for archaeologists, jewellery historians and collectors (London
+            2003) 59-78.</p>
+         <p>Iranian jewellery and small finds in religious context</p>
+         <p>Spaer 1993</p>
+         <p>M. Spaer, Gold-glass beads: A review of evidence, beads. Journal of the Society of Bead
+            Researchers 5,1993,9-28. Spaer 2003</p>
+         <p>M. Spaer, Ancient glass in the Israel Museum (Jerusalem 2003).</p>
+         <p>Stern 2001</p>
+         <p>E. M. Stern, Romisches, byzantinisches und fruhmittelalter- liches Gigs. 10 v. Chr.-700
+            n. Chr. (Ostfildem-Ruit 2001). Stollnei/Mir Eskanderi 2003 Th. Stollner/M. Mir
+            Eskanderi, Die Hohle der Anahlta? Ein sassanidischer Opferplatz im bronzezeitlichen
+            Bergbauge- biet von Veshnoveh, Iran. Antike Welt 34,2003,505-516. Stollner ef al. 2004
+            Th. Stollner/R. Slotta/A. Vatandoust A. (eds.), Bronzezeit- liche Kupfergewinnung Ijv
+            -Veshnaveh. In: Stollner/Slotta/ Vatandoust (eds.), Persiens antike Pracht: Bergbau,
+            Hand- werk, Archaologie; Katalog der Ausstellung des Deutschen Bergbau-Museums Bochum
+            vom 28. November 2004 bis 29. Mai 2005 2004. Veroffentlichungen aus dem Deutschen
+            Bergbau-Museum Bochum 128 (Bochum 2004) 240-257. Weinberg 1971</p>
+         <p>Weinberg, Glass manufakture in Hellenistic Rhodes. Archaiologikon Deltion
+            24,1971,143-151.</p>
+         <p>Wenzel 1993</p>
+         <p>M. Wenzel, Ornament and amulet. Rings of the Islamic lands. In: J. Raby (ed.), The
+            Nasser D. Khalili collgctipn of Islamic Art XVI (Oxford 1993).</p>
+         <p>Kambaksh Fard 1998 S. 0. Kambakhsh Fard, Parthian pithos-burials at Germi (Azarbaidjan).
+            In Persian with English summary (Tehran 1998).</p>
+         <p>AnexceeBa 1978</p>
+         <p>E. M. AnexceeBa, AHTMHHbie Oycw CeBepHoro npn- sepHOMopbn. Apxeonorun CCCP. Cboa
+            apxeono- mweCKMX mctohhmkob Tl-12 (MocKBal978).</p>
+         <p>Natascha Bagherpour Kashani E-mail: </p>
+         <p>Summary</p>
+         <p>Jewellery incorporates a significant category among the finds from the caves Cale Gar 1
+            and 2 at Vesna- ve. Selected find groups are described and compared to analogies from
+            sites in Iran and elsewhere in the Near East. Most comparisons from Iran originate from
+            the northern province of GTlan or tfie region of Germi in East Azarbaijan, whereas few
+            are from Nei- sapur and Qasr-e Abu Nasr, respectively in northeastern and southern Iran.
+            Beyond Iran, comparable finds come from Crimea, Egypt and Ed-Dur in Arabia. Already - as
+            described here - etched camelian beads, so-called gold-in-glass beads and several
+            finger-rings give an indication of the chronology of Cale Gar 1 jewellery deposits, and
+            a preliminary assessment of their meaning can be made. Metal sheets and an arrow head
+            are also discussed.</p>
+         <p/>
+         <p/>
+         <p/>
+         <p>OjuS*&gt;-</p>
+         <p>— ' If</p>
+         <p>3iJUuujl^(^jjilybJo&gt;-)ps^2^1^ 03^3</p>
+         <p>i_5"jLit.a C*JLjJbaS CwaiI ^ibu*iboJujjSjjjii 4J039M .&lt;X«1 V_jl jvi aS</p>
+         <p>•4jIjvSLoU 30 jlc. &lt;db- j jlc dJL&gt;</p>
+         <p>(^1j\AS^itSmO?LJ3CL)I^aI3^Aj Ij £$3- OjjjaJI&amp;o</p>
+         <p>jijS wll A$ AjS*J*3jLa^UbaSJU ^j.og ^Ub aJ^a ,^3^</p>
+         <p> TOC \o "1-5" \h \z (^1^UbU&amp;3j^Aj ,03^3^\acCiL33iJu^op^JiljCi.J0O3JoJui)ootd</p>
+         <p>41»3^m) ySj*i^5ovi^LLuiL^libjjL*&gt;&lt;_gbbU tL-il jjjl</p>
+         <p>3^&lt;Uli* jjjl lAwtutt Oj3^ ®L-il3»(j*&lt;a*3}lj-oi)jli</p>
+         <p>3^odjySjiji aS jti 3 oUw4 (jjl* AjfbS tyAA Aj^oJjl jjlji ^gUbdJojjTJO</p>
+         <p>ujlAiijjjlS" 3 O3J3 ^»aLo.»&lt;) 3 CUfcoJbi oJUUbJuULj 4JL9L OIbi* ObJllftA
+            .OjI4moIa«t*r...a. ^ilr.),f. 3 JCf*l (^tcb</p>
+         <p>**—6^3.j 63JLM13aLJj) jjjl^Ijlo</p>
+         <p>I</p>
+      </body>
+   </text>
+</TEI>

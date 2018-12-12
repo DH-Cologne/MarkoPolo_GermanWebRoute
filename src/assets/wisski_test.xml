@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+	xmlns="http://objekte-im-netz.fau.de/ontology/common/"
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:ecrm="http://erlangen-crm.org/170309/"
+>
+
+<!-- BEISPIEL: -->
+<!--                 -->
+<!-- Check DataTable -->
+	<!-- 
+	<rdf:Description rdf:about="http://projects.hki.uni-koeln.de/wisski/content/5ae2fc031e2e3"> 
+	-->
+<!--... -->
+	<!-- 
+	<rdf:Description rdf:about="http://projects.hki.uni-koeln.de/wisski/content/5ae2fc031e2e3">
+		<globalIdentifier>Isfahan-Iran</globalIdentifier> 
+	-->
+
+<rdf:Description rdf:about="http://projects.hki.uni-koeln.de/wisski/content/5ae2fc031e2e3">
+	<rdf:type rdf:resource="http://erlangen-crm.org/170309/E48_Place_Name"/>
+	<ecrm:P3_has_note>isfahan</ecrm:P3_has_note>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/418863/">
+	<originatesFrom xmlns="http://projects.hki.uni-koeln.de/wisski/content/">geonames</originatesFrom>
+	<owl:sameAs rdf:resource="http://projects.hki.uni-koeln.de/wisski/content/5ae2fc0303c0d"/>
+	<owl:sameAs rdf:resource="http://projects.hki.uni-koeln.de/wisski/wisski/navigate/134/view"/>
+	<owl:sameAs rdf:resource="http://projects.hki.uni-koeln.de/wisski/content/5ae2fc03e0c9c"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://projects.hki.uni-koeln.de/wisski/content/5ae2fc032db1e">
+	<originatesFrom xmlns="http://projects.hki.uni-koeln.de/wisski/content/">sparql_rdf_for_crmarchaeo</originatesFrom>
+	<owl:sameAs rdf:resource="http://projects.hki.uni-koeln.de/wisski/content/5ae2fc02b8c91"/>
+	<owl:sameAs rdf:resource="http://projects.hki.uni-koeln.de/wisski/wisski/navigate/133/view"/>
+</rdf:Description> 
+
+<rdf:Description rdf:about="http://projects.hki.uni-koeln.de/wisski/content/5ae2fc03e0c9c">
+	<originatesFrom xmlns="http://projects.hki.uni-koeln.de/wisski/content/">sparql_rdf_for_crmarchaeo</originatesFrom>
+	<owl:sameAs rdf:resource="http://projects.hki.uni-koeln.de/wisski/content/5ae2fc0303c0d"/>
+	<owl:sameAs rdf:resource="http://projects.hki.uni-koeln.de/wisski/wisski/navigate/134/view"/>
+	<owl:sameAs rdf:resource="http://sws.geonames.org/418863/"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://projects.hki.uni-koeln.de/wisski/content/5ae2fc02d3800">
+	<rdf:type rdf:resource="http://objekte-im-netz.fau.de/ontology/common/S65_URL"/>
+	<ecrm:P3_has_note>http://sws.geonames.org/418863/</ecrm:P3_has_note>
+	<!-- <globalIdentifier>Sasanian-Period</globalIdentifier> -->
+</rdf:Description>
+
+<rdf:Description rdf:about="http://projects.hki.uni-koeln.de/wisski/wisski/navigate/134/view">
+	<originatesFrom xmlns="http://projects.hki.uni-koeln.de/wisski/content/">drupal_id</originatesFrom>
+	<owl:sameAs rdf:resource="http://projects.hki.uni-koeln.de/wisski/content/5ae2fc0303c0d"/>
+	<owl:sameAs rdf:resource="http://sws.geonames.org/418863/"/>
+	<owl:sameAs rdf:resource="http://projects.hki.uni-koeln.de/wisski/content/5ae2fc03e0c9c"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://projects.hki.uni-koeln.de/wisski/content/5ae1cba4c1c0d">
+	<rdf:type rdf:resource="http://erlangen-crm.org/170309/E35_Title"/>
+	<ecrm:P3_has_note>Geonames</ecrm:P3_has_note>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://projects.hki.uni-koeln.de/wisski/content/5ae1d337910d1">
+	<rdf:type rdf:resource="http://objekte-im-netz.fau.de/ontology/common/S40_Geographical_Place"/>
+	<ecrm:P87_is_identified_by rdf:resource="http://projects.hki.uni-koeln.de/wisski/content/5ae1d337a56f1"/>
+	<originatesFrom xmlns="http://projects.hki.uni-koeln.de/wisski/content/">sparql_1_1_rdf_with_pathbuilder</originatesFrom>
+	<owl:sameAs rdf:resource="http://projects.hki.uni-koeln.de/wisski/wisski/navigate/106/view"/>
+	<owl:sameAs rdf:resource="http://projects.hki.uni-koeln.de/wisski/content/5ae1d337db0a2"/>
+	<owl:sameAs rdf:resource="http://sws.geonames.org/2950159/"/>
+	<N41_has_authority_file_id rdf:resource="http://projects.hki.uni-koeln.de/wisski/content/5ae2fa5bdf521"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://projects.hki.uni-koeln.de/wisski/wisski/navigate/106/view">
+	<originatesFrom xmlns="http://projects.hki.uni-koeln.de/wisski/content/">drupal_id</originatesFrom>
+	<owl:sameAs rdf:resource="http://projects.hki.uni-koeln.de/wisski/content/5ae1d337910d1"/>
+	<owl:sameAs rdf:resource="http://projects.hki.uni-koeln.de/wisski/content/5ae1d337db0a2"/>
+	<owl:sameAs rdf:resource="http://sws.geonames.org/2950159/"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://projects.hki.uni-koeln.de/wisski/content/5ae1d337a56f1">
+	<rdf:type rdf:resource="http://erlangen-crm.org/170309/E48_Place_Name"/>
+	<ecrm:P3_has_note>example place</ecrm:P3_has_note>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://projects.hki.uni-koeln.de/wisski/content/5ae1d337db0a2">
+	<originatesFrom xmlns="http://projects.hki.uni-koeln.de/wisski/content/">sparql_rdf_for_crmarchaeo</originatesFrom>
+	<owl:sameAs rdf:resource="http://projects.hki.uni-koeln.de/wisski/content/5ae1d337910d1"/>
+	<owl:sameAs rdf:resource="http://projects.hki.uni-koeln.de/wisski/wisski/navigate/106/view"/>
+	<owl:sameAs rdf:resource="http://sws.geonames.org/2950159/"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://projects.hki.uni-koeln.de/wisski/wisski/navigate/108/view">
+	<originatesFrom xmlns="http://projects.hki.uni-koeln.de/wisski/content/">drupal_id</originatesFrom>
+	<owl:sameAs rdf:resource="http://projects.hki.uni-koeln.de/wisski/content/5ae2f9a58e419"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://projects.hki.uni-koeln.de/wisski/content/5ae1d3a8338c0">
+	<rdf:type rdf:resource="http://objekte-im-netz.fau.de/ontology/common/S65_URL"/>
+	<ecrm:P3_has_note>http://sws.geonames.org/2950159/</ecrm:P3_has_note>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/2950159/">
+	<originatesFrom xmlns="http://projects.hki.uni-koeln.de/wisski/content/">geonames</originatesFrom>
+	<owl:sameAs rdf:resource="http://projects.hki.uni-koeln.de/wisski/content/5ae1d337910d1"/>
+	<owl:sameAs rdf:resource="http://projects.hki.uni-koeln.de/wisski/wisski/navigate/106/view"/>
+	<owl:sameAs rdf:resource="http://projects.hki.uni-koeln.de/wisski/content/5ae1d337db0a2"/>
+	<owl:sameAs rdf:resource="http://projects.hki.uni-koeln.de/wisski/content/5ae1d6c90751b"/>
+	<owl:sameAs rdf:resource="http://projects.hki.uni-koeln.de/wisski/wisski/navigate/119/view"/>
+	<owl:sameAs rdf:resource="http://projects.hki.uni-koeln.de/wisski/content/5ae1d6c9bc04b"/>
+	<owl:sameAs rdf:resource="http://projects.hki.uni-koeln.de/wisski/content/5ae1d9461adbc"/>
+	<owl:sameAs rdf:resource="http://projects.hki.uni-koeln.de/wisski/wisski/navigate/123/view"/>
+	<owl:sameAs rdf:resource="http://projects.hki.uni-koeln.de/wisski/content/5ae1d946b6ebf"/>
+	<owl:sameAs rdf:resource="http://projects.hki.uni-koeln.de/wisski/content/5ae1da0083bc3"/>
+	<owl:sameAs rdf:resource="http://projects.hki.uni-koeln.de/wisski/wisski/navigate/127/view"/>
+	<owl:sameAs rdf:resource="http://projects.hki.uni-koeln.de/wisski/content/5ae1da00e8bf5"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://projects.hki.uni-koeln.de/wisski/content/5ae1d467bc8e1">
+	<rdf:type rdf:resource="http://objekte-im-netz.fau.de/ontology/common/S67_Authority_File_ID"/>
+	<ecrm:P139_has_alternative_form rdf:resource="http://projects.hki.uni-koeln.de/wisski/content/5ae1d467d442e"/>
+	<ecrm:P3_has_note>112931</ecrm:P3_has_note>
+	<originatesFrom xmlns="http://projects.hki.uni-koeln.de/wisski/content/">sparql_1_1_rdf_with_pathbuilder</originatesFrom>
+	<owl:sameAs rdf:resource="http://projects.hki.uni-koeln.de/wisski/wisski/navigate/111/view"/>
+	<owl:sameAs rdf:resource="http://projects.hki.uni-koeln.de/wisski/content/5ae1d46849930"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://projects.hki.uni-koeln.de/wisski/wisski/navigate/111/view">
+	<originatesFrom xmlns="http://projects.hki.uni-koeln.de/wisski/content/">drupal_id</originatesFrom>
+	<owl:sameAs rdf:resource="http://projects.hki.uni-koeln.de/wisski/content/5ae1d467bc8e1"/>
+	<owl:sameAs rdf:resource="http://projects.hki.uni-koeln.de/wisski/content/5ae1d46849930"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://projects.hki.uni-koeln.de/wisski/content/5ae1d467d442e">
+	<rdf:type rdf:resource="http://objekte-im-netz.fau.de/ontology/common/S65_URL"/>
+	<ecrm:P3_has_note>http://sws.geonames.org/112931/</ecrm:P3_has_note>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://projects.hki.uni-koeln.de/wisski/content/5ae1d468055dc">
+	<rdf:type rdf:resource="http://objekte-im-netz.fau.de/ontology/common/S40_Geographical_Place"/>
+	<ecrm:P87_is_identified_by rdf:resource="http://projects.hki.uni-koeln.de/wisski/content/5ae1d4682bb57"/>
+	<originatesFrom xmlns="http://projects.hki.uni-koeln.de/wisski/content/">sparql_1_1_rdf_with_pathbuilder</originatesFrom>
+	<owl:sameAs rdf:resource="http://projects.hki.uni-koeln.de/wisski/wisski/navigate/112/view"/>
+	<owl:sameAs rdf:resource="http://sws.geonames.org/112931/"/>
+	<owl:sameAs rdf:resource="http://projects.hki.uni-koeln.de/wisski/content/5ae1d468affb7"/>
+	<N41_has_authority_file_id rdf:resource="http://projects.hki.uni-koeln.de/wisski/content/5ae1d467bc8e1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://projects.hki.uni-koeln.de/wisski/wisski/navigate/112/view">
+	<originatesFrom xmlns="http://projects.hki.uni-koeln.de/wisski/content/">drupal_id</originatesFrom>
+	<owl:sameAs rdf:resource="http://projects.hki.uni-koeln.de/wisski/content/5ae1d468055dc"/>
+	<owl:sameAs rdf:resource="http://sws.geonames.org/112931/"/>
+	<owl:sameAs rdf:resource="http://projects.hki.uni-koeln.de/wisski/content/5ae1d468affb7"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://projects.hki.uni-koeln.de/wisski/content/5ae1d4682bb57">
+	<rdf:type rdf:resource="http://erlangen-crm.org/170309/E48_Place_Name"/>
+	<ecrm:P3_has_note>Tehran</ecrm:P3_has_note>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://projects.hki.uni-koeln.de/wisski/content/5ae1d46849930">
+	<originatesFrom xmlns="http://projects.hki.uni-koeln.de/wisski/content/">sparql_rdf_for_crmarchaeo</originatesFrom>
+	<owl:sameAs rdf:resource="http://projects.hki.uni-koeln.de/wisski/content/5ae1d467bc8e1"/>
+	<owl:sameAs rdf:resource="http://projects.hki.uni-koeln.de/wisski/wisski/navigate/111/view"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sws.geonames.org/112931/">
+	<originatesFrom xmlns="http://projects.hki.uni-koeln.de/wisski/content/">geonames</originatesFrom>
+	<owl:sameAs rdf:resource="http://projects.hki.uni-koeln.de/wisski/content/5ae1d468055dc"/>
+	<owl:sameAs rdf:resource="http://projects.hki.uni-koeln.de/wisski/wisski/navigate/112/view"/>
+	<owl:sameAs rdf:resource="http://projects.hki.uni-koeln.de/wisski/content/5ae1d468affb7"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://projects.hki.uni-koeln.de/wisski/content/5ae1d468affb7">
+	<originatesFrom xmlns="http://projects.hki.uni-koeln.de/wisski/content/">sparql_rdf_for_crmarchaeo</originatesFrom>
+	<owl:sameAs rdf:resource="http://projects.hki.uni-koeln.de/wisski/content/5ae1d468055dc"/>
+	<owl:sameAs rdf:resource="http://projects.hki.uni-koeln.de/wisski/wisski/navigate/112/view"/>
+	<owl:sameAs rdf:resource="http://sws.geonames.org/112931/"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://projects.hki.uni-koeln.de/wisski/content/5ae1d67421be8">
+	<rdf:type rdf:resource="http://objekte-im-netz.fau.de/ontology/common/S68_Authority_File"/>
+	<ecrm:P129i_is_subject_of rdf:resource="http://projects.hki.uni-koeln.de/wisski/content/5ae2fd103d521"/>
+	<ecrm:P102_has_title rdf:resource="http://projects.hki.uni-koeln.de/wisski/content/5ae1d6743750b"/>
+	<originatesFrom xmlns="http://projects.hki.uni-koeln.de/wisski/content/">sparql_1_1_rdf_with_pathbuilder</originatesFrom>
+	<owl:sameAs rdf:resource="http://projects.hki.uni-koeln.de/wisski/wisski/navigate/116/view"/>
+	<owl:sameAs rdf:resource="http://projects.hki.uni-koeln.de/wisski/content/5ae1d6745e1a8"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://projects.hki.uni-koeln.de/wisski/wisski/navigate/116/view">
+	<originatesFrom xmlns="http://projects.hki.uni-koeln.de/wisski/content/">drupal_id</originatesFrom>
+	<owl:sameAs rdf:resource="http://projects.hki.uni-koeln.de/wisski/content/5ae1d67421be8"/>
+	<owl:sameAs rdf:resource="http://projects.hki.uni-koeln.de/wisski/content/5ae1d6745e1a8"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://projects.hki.uni-koeln.de/wisski/content/5ae1d6743750b">
+	<rdf:type rdf:resource="http://erlangen-crm.org/170309/E35_Title"/>
+	<ecrm:P3_has_note>Geonames</ecrm:P3_has_note>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://projects.hki.uni-koeln.de/wisski/content/5ae1d6745e1a8">
+	<originatesFrom xmlns="http://projects.hki.uni-koeln.de/wisski/content/">sparql_rdf_for_crmarchaeo</originatesFrom>
+	<owl:sameAs rdf:resource="http://projects.hki.uni-koeln.de/wisski/content/5ae1d67421be8"/>
+	<owl:sameAs rdf:resource="http://projects.hki.uni-koeln.de/wisski/wisski/navigate/116/view"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://projects.hki.uni-koeln.de/wisski/content/5ae1d6c8c2408">
+	<rdf:type rdf:resource="http://objekte-im-netz.fau.de/ontology/common/S67_Authority_File_ID"/>
+	<ecrm:P139_has_alternative_form rdf:resource="http://projects.hki.uni-koeln.de/wisski/content/5ae1d6c8da36e"/>
+	<ecrm:P3_has_note>2950159</ecrm:P3_has_note>
+	<ecrm:P71i_is_listed_in rdf:resource="http://projects.hki.uni-koeln.de/wisski/content/5ae1d67421be8"/>
+	<originatesFrom xmlns="http://projects.hki.uni-koeln.de/wisski/content/">sparql_1_1_rdf_with_pathbuilder</originatesFrom>
+	<owl:sameAs rdf:resource="http://projects.hki.uni-koeln.de/wisski/wisski/navigate/118/view"/>
+	<owl:sameAs rdf:resource="http://projects.hki.uni-koeln.de/wisski/content/5ae1d6c9357a1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://projects.hki.uni-koeln.de/wisski/wisski/navigate/118/view">
+	<originatesFrom xmlns="http://projects.hki.uni-koeln.de/wisski/content/">drupal_id</originatesFrom>
+	<owl:sameAs rdf:resource="http://projects.hki.uni-koeln.de/wisski/content/5ae1d6c8c2408"/>
+	<owl:sameAs rdf:resource="http://projects.hki.uni-koeln.de/wisski/content/5ae1d6c9357a1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://projects.hki.uni-koeln.de/wisski/content/5ae1d6c8da36e">
+	<rdf:type rdf:resource="http://objekte-im-netz.fau.de/ontology/common/S65_URL"/>
+	<ecrm:P3_has_note>http://sws.geonames.org/2950159/</ecrm:P3_has_note>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://projects.hki.uni-koeln.de/wisski/content/5ae1d6c90751b">
+	<rdf:type rdf:resource="http://objekte-im-netz.fau.de/ontology/common/S40_Geographical_Place"/>
+	<ecrm:P87_is_identified_by rdf:resource="http://projects.hki.uni-koeln.de/wisski/content/5ae1d6c91fcd6"/>
+	<originatesFrom xmlns="http://projects.hki.uni-koeln.de/wisski/content/">sparql_1_1_rdf_with_pathbuilder</originatesFrom>
+	<owl:sameAs rdf:resource="http://sws.geonames.org/2950159/"/>
+	<owl:sameAs rdf:resource="http://projects.hki.uni-koeln.de/wisski/wisski/navigate/119/view"/>
+	<owl:sameAs rdf:resource="http://projects.hki.uni-koeln.de/wisski/content/5ae1d6c9bc04b"/>
+	<N41_has_authority_file_id rdf:resource="http://projects.hki.uni-koeln.de/wisski/content/5ae1d6c8c2408"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://projects.hki.uni-koeln.de/wisski/wisski/navigate/119/view">
+	<originatesFrom xmlns="http://projects.hki.uni-koeln.de/wisski/content/">drupal_id</originatesFrom>
+	<owl:sameAs rdf:resource="http://sws.geonames.org/2950159/"/>
+	<owl:sameAs rdf:resource="http://projects.hki.uni-koeln.de/wisski/content/5ae1d6c90751b"/>
+	<owl:sameAs rdf:resource="http://projects.hki.uni-koeln.de/wisski/content/5ae1d6c9bc04b"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://projects.hki.uni-koeln.de/wisski/content/5ae1d6c91fcd6">
+	<rdf:type rdf:resource="http://erlangen-crm.org/170309/E48_Place_Name"/>
+	<ecrm:P3_has_note>Berlin</ecrm:P3_has_note>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://projects.hki.uni-koeln.de/wisski/content/5ae1d6c9357a1">
+	<originatesFrom xmlns="http://projects.hki.uni-koeln.de/wisski/content/">sparql_rdf_for_crmarchaeo</originatesFrom>
+	<owl:sameAs rdf:resource="http://projects.hki.uni-koeln.de/wisski/content/5ae1d6c8c2408"/>
+	<owl:sameAs rdf:resource="http://projects.hki.uni-koeln.de/wisski/wisski/navigate/118/view"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://projects.hki.uni-koeln.de/wisski/content/5ae1d6c9bc04b">
+	<originatesFrom xmlns="http://projects.hki.uni-koeln.de/wisski/content/">sparql_rdf_for_crmarchaeo</originatesFrom>
+	<owl:sameAs rdf:resource="http://sws.geonames.org/2950159/"/>
+	<owl:sameAs rdf:resource="http://projects.hki.uni-koeln.de/wisski/content/5ae1d6c90751b"/>
+	<owl:sameAs rdf:resource="http://projects.hki.uni-koeln.de/wisski/wisski/navigate/119/view"/>
+</rdf:Description>
+
+
+</rdf:RDF>

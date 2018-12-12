@@ -1,0 +1,47 @@
+html {
+  position: relative;
+  min-height: 100%;
+}
+body {
+  /* Margin bottom by footer height */
+  margin-bottom: 60px;
+}
+
+.footer {
+  text-align: center;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  /* Set the fixed height of the footer here */
+  height: 40px;
+  line-height: 40px; /* Vertically center the text there */
+  background-color: #eee;
+  font-size: 12px;
+}
+
+.footer a {
+  color: #333;
+}
+
+.footer img {
+  margin-left: 5px;
+  margin-top: -3px;
+  height: 18px;
+}
+
+:host {
+  height: 100%;
+}
+
+#maincontent {
+  padding: 100px 15px 40px 15px;
+}
+
+.footer > .container {
+  padding-right: 15px;
+  padding-left: 15px;
+}
+
+code {
+  font-size: 80%;
+}
