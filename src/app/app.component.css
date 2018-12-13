@@ -1,11 +1,24 @@
-html {
+/* html {
   position: relative;
   min-height: 100%;
+} */
+
+#xmlView {
+  overflow-y: scroll; 
+  overflow-x: hidden; 
+  text-align: justify;
+  font-size: 70%;
+  height: 45vh;
 }
-body {
-  /* Margin bottom by footer height */
-  margin-bottom: 60px;
+
+#fascimileView {
+  height: 45vh;
 }
+
+#graphView {
+  height: 55vh;
+}
+
 
 .footer {
   text-align: center;
@@ -19,6 +32,7 @@ body {
   font-size: 12px;
 }
 
+
 .footer a {
   color: #333;
 }
@@ -29,19 +43,11 @@ body {
   height: 18px;
 }
 
-:host {
-  height: 100%;
-}
-
-#maincontent {
-  padding: 100px 15px 40px 15px;
-}
-
 .footer > .container {
   padding-right: 15px;
   padding-left: 15px;
 }
 
 code {
-  font-size: 80%;
+  font-size: 70%;
 }
