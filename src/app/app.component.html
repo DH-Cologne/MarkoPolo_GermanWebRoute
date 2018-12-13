@@ -13,8 +13,12 @@
     <div class="col" id="xmlView">
       <app-textview></app-textview>
     </div>
-    <!-- FASCIMILE VIEW -->
+    <!-- FASCIMILE VIEW -"PDF" --> 
     <div class="col" id="fascimileView">
+      <pdf-viewer [src]="pdfSrc" 
+                  [zoom] = "0.5"
+                  >
+      </pdf-viewer>
     </div>
     <!-- ...Line-Break... -->
     <div class="w-100"></div>

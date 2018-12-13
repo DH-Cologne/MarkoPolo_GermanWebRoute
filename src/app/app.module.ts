@@ -3,6 +3,8 @@ import {NgModule} from '@angular/core';
 
 import {AppComponent} from './app.component';
 
+import { PdfViewerModule } from 'ng2-pdf-viewer';
+
 import {TextviewComponent} from "./components/textview/textview.component";
 import {GraphviewComponent} from './components/graphview/graphview.component';
 
@@ -24,7 +26,8 @@ import {NgbModule} from "@ng-bootstrap/ng-bootstrap";
     BrowserModule,
     FormsModule,
     HttpClientModule,
-    NgbModule
+    NgbModule,
+    PdfViewerModule
   ],
   providers: [],
   bootstrap: [AppComponent]

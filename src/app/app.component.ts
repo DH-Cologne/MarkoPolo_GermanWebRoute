@@ -13,6 +13,7 @@ import { JsonToD3Service } from "./services/jsonToD3/json-to-d3.service";
 // export class AppComponent implements OnInit {
 export class AppComponent{
 
+  pdfSrc: string = '../assets/MarkoPolo/252/cgm252.pdf';
 
   constructor(private jsonToD3Service: JsonToD3Service) {
   }
