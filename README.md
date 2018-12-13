@@ -4,7 +4,7 @@ A Web Visualization of the places and the route Marko Polo took (No-Map View), b
 
 ## Web Deploy 
 
-Online Web Deploy of the Project on: 
+Online Web Deploy of the Project on: https://markopolo-germantranslation.netlify.com 
 
 
 ## Local Deploy & Testing 
