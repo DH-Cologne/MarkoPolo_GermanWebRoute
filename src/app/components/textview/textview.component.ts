@@ -32,7 +32,7 @@ export class TextviewComponent implements OnInit {
         if (this.dataTable[i]["xml_id"] != undefined){
 
           // global_object_xml_id
-          let global_object_xml_id = this.dataTable[i]["xml_id"];          
+          let global_object_xml_id = this.dataTable[i]["xml_id"];   
 
           // Find Local-Element with this Global-Element connection
           // ----------------------------------------------------
@@ -71,19 +71,19 @@ export class TextviewComponent implements OnInit {
     // OLD VERSION BEFORE GLOBAL_DATA-TABLE
     // -----------------------------------
     // // Objekte mit "globalIdentifier"
-    // let identifierObjects = document.querySelectorAll('a[globalIdentifier]');
+    let identifierObjects = document.querySelectorAll('a[class="placeName"]');
     
-    // for (let i=0; i < identifierObjects.length; i++){
+    for (let i=0; i < identifierObjects.length; i++){
 
-    //   // click-event for "NodeZoom(event)" function
-    //   identifierObjects[i].addEventListener("click", this.NodeZoom);
-    //   // get "globalIdentifier"
-    //   let globalId =  String(identifierObjects[i].getAttribute("globalIdentifier"));
-    //   // set "id"
-    //   identifierObjects[i].setAttribute("id", "xml-" + globalId);
-    //   // set "href"
-    //   identifierObjects[i].setAttribute("href", "#rdf-" + globalId);
-    // }
+      // click-event for "NodeZoom(event)" function
+      identifierObjects[i].addEventListener("click", this.NodeZoom);
+      // get "globalIdentifier"
+      let globalId = String(identifierObjects[i].getAttribute("ref"));
+      // set "id"
+      identifierObjects[i].setAttribute("id", "xml-" + globalId);
+      // set "href"
+      identifierObjects[i].setAttribute("href", "#rdf-" + globalId);
+    }
   }
 
   
