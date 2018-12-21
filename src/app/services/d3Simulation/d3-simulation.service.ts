@@ -55,7 +55,7 @@ export class D3SimulationService {
     const color = d3.scaleOrdinal(d3.schemeCategory10);
     svg.attr("id", "svg")
     .call(d3.zoom()
-            .scaleExtent([0.05, 3])
+            .scaleExtent([0.1, 2])
             .on("zoom", zoom_actions));
     
     //add encompassing group -- later seen as HTML-group (<g>-Tag) -- for the zoom 
@@ -181,7 +181,7 @@ export class D3SimulationService {
       // simulation
       //     .force('tick', function(e) {
       //       nodes.forEach(function(d) {
-      //         d.y += (height/2 - d.y);
+      //         d.y += (height - d.y/2);
       //       });
       //     })
 
