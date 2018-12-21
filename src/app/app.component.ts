@@ -2,7 +2,6 @@ import { Component, OnInit } from '@angular/core';
 
 
 // import { DataService } from "./services/data/data.service";
-import { JsonToD3Service } from "./services/jsonToD3/json-to-d3.service";
 
 
 @Component({
@@ -16,15 +15,8 @@ export class AppComponent{
 
   pdfSrc: string = '../assets/MarkoPolo/252/cgm252.pdf';
 
-  constructor(private jsonToD3Service: JsonToD3Service) {
+  constructor() {
   }
 
-  // ngOnInit() {
-
-  //   this.jsonToD3Service.myD3PromiseObject.then(function(value) {
-
-  //     console.log(value);
-  //   });
-  // }
 }
 

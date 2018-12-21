@@ -1,17 +1,51 @@
 import { Injectable } from '@angular/core';
 
 import * as d3 from 'd3';
-import { JsonToD3Service } from "../../services/jsonToD3/json-to-d3.service";
+// import { JsonToD3Service } from "../../services/jsonToD3/json-to-d3.service";
+
+import { HttpClient } from '@angular/common/http'; 
+import { Observable } from 'rxjs';
 
 @Injectable({
   providedIn: 'root',
 })
 export class D3SimulationService {
 
-  constructor(private jsonToD3Service: JsonToD3Service) {
+  public d3Json: any;
+
+  constructor( private http: HttpClient) {
+
   }
 
+  // USE THE AUTOMATICALLY GENERATED DATA-TABLE (MARKO POLO) TO GENERATE THE D3 USABLE JSON WITH "LINKS" AND "NODES"
+  // 
+  // MARKO POLO
+  public getJSON(): Observable<any> {
+    return this.http.get("./assets/dataTableMarko.json")
+  }
+
+  public prepareSimulation(){
+    
+    // GET JSON_DATA_TABLE_MARKO
+    this.getJSON().subscribe(data => {
+      console.log("data-1");
+      console.log(data);
+
+      // TRANSFORM JSON-DATA FOR D3
+      this.d3Json = jsonToD3(data);
+      console.log("data-2");
+      console.log(this.d3Json);
+
+      // START SIMULATION
+      this.createD3Simulation();
+    });
+
+  }
+
+  
+
   public createD3Simulation() {
+
 
     // select <svg> Html-Selection for d3 
     const svg = d3.select("svg");
@@ -35,17 +69,20 @@ export class D3SimulationService {
     // oriented in the Centre of the svg
     // and particular distance of the Nodes
     const simulation = d3.forceSimulation()
-      .force('link', d3.forceLink().id((d: any) => d.id).distance(200).strength(2))
+      .force('link', d3.forceLink().id((d: any) => d.id).distance(100).strength(2))
       .force('center', d3.forceCenter(width / 2, height / 2))
-      .force('collision', d3.forceCollide(200));
+      .force('collision', d3.forceCollide(300));
 
-    // // create json for d3-json 
-    // use the output json (value) 
-    this.jsonToD3Service.myD3PromiseObject.then(function(value) {
+  
 
-      console.log(value);
-      update(value.links, value.nodes, g);
-    });
+    console.log("data-3");
+    console.log(this.d3Json);
+
+    // VIZUALIZATION FUNCTION
+    update(this.d3Json.links, this.d3Json.nodes, g);
+
+
+
     
 
     // Update Nodes and Links
@@ -58,6 +95,8 @@ export class D3SimulationService {
         .enter()
         .append("line")
         .attr("class", "link")
+        .attr('stroke', "red")
+        .attr('stroke-width', "2")
         .attr('marker-end','url(#arrowhead)')
       link.append("title")
         .text((d:any) => d.type);
@@ -99,7 +138,7 @@ export class D3SimulationService {
         // Set: href
         .append("a")    
         .attr("xlink:href", (d:any) => {
-          if (d.type == "globalIdentifier") {return "/#"+"xml-"+ d.label} ;})
+          if (d.type == "name") {return "/#"+"xml-"+ d.label} ;})
         
         // Set: globalIdentifier
         .append("g")
@@ -123,12 +162,13 @@ export class D3SimulationService {
           .append("text")
           .attr("dy", -8)
           .text( (d:any) => {
-            if (d.type == "globalIdentifier") {return d.label};});
+            return d.label
+          });
       
       // Set title
       node.append("title")
           .text( (d: any) => {
-            if (d.type != "globalIdentifier") {return d.label};});
+            return d.label});
         
 
       // simulation -- nodes and links
@@ -137,6 +177,13 @@ export class D3SimulationService {
           .on("tick", ticked);
       simulation.force<d3.ForceLink<any, any>>('link')
           .links(links);
+
+      // simulation
+      //     .force('tick', function(e) {
+      //       nodes.forEach(function(d) {
+      //         d.y += (height/2 - d.y);
+      //       });
+      //     })
 
       // tick function -- update node positions
       function ticked() {
@@ -173,5 +220,104 @@ export class D3SimulationService {
       d.fx = d3.event.x;
       d.fy = d3.event.y;
     }
+  }
+}
+
+
+
+
+// --------------------------------------------------------------------------------------------
+// --------------------------------------------------------------------------------------------
+function jsonToD3(result) { 
+
+  const content = result["places"];
+  const d3Json_2 = { "prefixes": [], "nodes": [], "links": [] };
+  
+  // Every Node
+  let node_id_global = 0;
+
+  // Node-Counter for link Connection of Places (puffer = last-place)
+  let node_id_puffer = 0;
+
+  // Places Objects
+  content.map(object => {
+
+    // ID OF THE FIRST ADDED NODE OF AN OBJECT GROUP
+    let sourceID_2 = d3Json_2.nodes.length;
+
+
+    // ADD NAME-NODE:
+    let node = {};
+    node["type"] = "name";
+    node["label"] = object["name"];
+    node["id"] = node_id_global;
+    node["color"] = 0;
+    // Add Node
+    d3Json_2.nodes.push(node);
+    // Add Link
+    addLink(node, sourceID_2, d3Json_2, node["type"]);
+    node_id_global++;
+
+    // ------------------------------------------------------------
+    // Connect places (by order of appearance)
+    let targetID;
+    targetID = node["id"];
+    const link = {};
+    link["source"] = node_id_puffer;
+    link["target"] = targetID;
+    link["type"] = "Marko Polo Route";
+    d3Json_2.links.push(link);
+    // Puffer for next time equal to root of this place-object
+    node_id_puffer = sourceID_2; 
+    // ------------------------------------------------------------
+
+
+    // // ADD GEO.LOCATION-NODE:
+    // let node_2 = {};
+    // node_2["type"] = "geo_location";
+    // node_2["label"] = object["geo_location"];
+    // node_2["id"] = node_id_global;
+    // node_2["color"] = 1;
+    // // Add Node
+    // d3Json_2.nodes.push(node_2);
+    // // Add Link
+    // addLink(node_2, sourceID_2, d3Json_2, node_2["type"]);
+    // node_id_global++;
+
+    // // ADD REF-NODE:
+    // let node_3 = {};
+    // node_3["type"] = "ref";
+    // node_3["label"] = object["ref"];
+    // node_3["id"] = node_id_global;
+    // node_3["color"] = 2;
+    // // Add Node
+    // d3Json_2.nodes.push(node_3);
+    // // Add Link
+    // addLink(node_3, sourceID_2, d3Json_2, node_3["type"]);
+    // node_id_global++;
+
+    
+  });
+
+
+  console.log("data-7");
+  console.log(d3Json_2);
+  return d3Json_2;
+}
+
+// --------------------------------------------------------------------------------------------
+function addLink(node, sourceID, d3Json, key) {
+
+  let typeID = key;
+
+  if (typeID != "name") {
+
+    let targetID;
+    targetID = node["id"];
+    const link = {};
+    link["source"] = sourceID;
+    link["target"] = targetID;
+    link["type"] = typeID;
+    d3Json.links.push(link);
   }
 }

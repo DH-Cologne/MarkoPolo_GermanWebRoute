@@ -17,73 +17,57 @@ export class TextviewComponent implements OnInit {
   }
 
   ngOnInit(){
-
+    
+    //                              MARKO POLO    
     // GET GLOBAL DATA TABLE JSON
     // ---------------------
-    let dataTableE = require('../../../assets/dataTable.json');
+    let dataTableMarko = require('../../../assets/dataTableMarko.json');
         
       // Global-DataTable-Object
-      this.dataTable =dataTableE["objects"];
+      this.dataTable =dataTableMarko["places"];
 
       // go through Global-DataTable-Elements
       for (let i = 0; i < this.dataTable.length; i++){
 
         // IF Global-DataTable-Element has "xml_id" Attribute:
-        if (this.dataTable[i]["xml_id"] != undefined){
+        if (this.dataTable[i]["ref"] != undefined){
 
-          // global_object_xml_id
-          let global_object_xml_id = this.dataTable[i]["xml_id"];   
+          // global_object_ref
+          let global_object_ref = this.dataTable[i]["ref"];   
 
           // Find Local-Element with this Global-Element connection
           // ----------------------------------------------------
-          // Objekte mit "xml_id"
-          let xmlIdObjects = document.querySelectorAll('a[xml_id]');
+          // Alle Objekte mit "a[class="placeName"]" 
+          let xmlIdPlaces = document.querySelectorAll('a[class="placeName"]');
 
           // GET LOCAL OBJECT 
           // WITH FITTING:
-          // XML_ID
-          for(let j = 0; j < xmlIdObjects.length; j++){
+          // ref
+          for(let j = 0; j < xmlIdPlaces.length; j++){
 
-            // get local "xml_id"
-            let local_object_xml_id =  String(xmlIdObjects[j].getAttribute("xml_id"));
+            // get local "ref"
+            let local_object_ref =  String(xmlIdPlaces[j].getAttribute("ref"));
 
             // compare global_id & local_id  -- if (equal):
-            if (local_object_xml_id == global_object_xml_id){
+            if (local_object_ref == global_object_ref){
               
               // set "globalIdentifier"
               let globalIdName = this.dataTable[i]["name"];
-              xmlIdObjects[j].setAttribute("globalIdentifier", globalIdName);
+              xmlIdPlaces[j].setAttribute("globalIdentifier", globalIdName);
 
               // set "click-event" - "NodeZoom(event)" function
-              xmlIdObjects[j].addEventListener("click", this.NodeZoom);
+              xmlIdPlaces[j].addEventListener("click", this.NodeZoom);
 
               // set "id"
-              xmlIdObjects[j].setAttribute("id", "xml-" + globalIdName);
+              xmlIdPlaces[j].setAttribute("id", "xml-" + globalIdName);
 
               // set "href"
-              xmlIdObjects[j].setAttribute("href", "#rdf-" + globalIdName);
+              xmlIdPlaces[j].setAttribute("href", "#rdf-" + globalIdName);
             }
           }
         }
       }
 
-    
-    // OLD VERSION BEFORE GLOBAL_DATA-TABLE
-    // -----------------------------------
-    // // Objekte mit "globalIdentifier"
-    let identifierObjects = document.querySelectorAll('a[class="placeName"]');
-    
-    for (let i=0; i < identifierObjects.length; i++){
-
-      // click-event for "NodeZoom(event)" function
-      identifierObjects[i].addEventListener("click", this.NodeZoom);
-      // get "globalIdentifier"
-      let globalId = String(identifierObjects[i].getAttribute("ref"));
-      // set "id"
-      identifierObjects[i].setAttribute("id", "xml-" + globalId);
-      // set "href"
-      identifierObjects[i].setAttribute("href", "#rdf-" + globalId);
-    }
   }
 
   

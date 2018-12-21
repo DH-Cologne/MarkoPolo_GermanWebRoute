@@ -1,0 +1,214 @@
+{
+    "persons":[],
+    "realia":[],
+    "rs":[],
+    "places":[
+      {
+        "id": 0,
+        "name": "Gostantinople",
+        "rdf:about": "",
+        "geo_location": "41.008238 28.978359",
+        "ref": "#gostantinople"
+      },
+      {
+        "id": 1,
+        "name": "Soldadie",
+        "rdf:about": "",
+        "geo_location": "44.850467 34.976183",
+        "ref": "#soldadie"
+      },
+      {
+        "id": 2,
+        "name": "Curmos",
+        "rdf:about": "",
+        "geo_location": "27.05927 56.460792",
+        "ref": "#curmos"
+      },
+      {
+        "id": 3,
+        "name": "Tatarstan",
+        "rdf:about": "",
+        "geo_location": "55.180236 50.726394",
+        "ref": "#tatarstan"
+      },
+      {
+        "id": 4,
+        "name": "Barcha",
+        "rdf:about": "",
+        "geo_location": "",
+        "note": "This is interpreted as a place in the German translation but it actually does not exist as a place.",
+        "ref": "#barcha"
+      },
+      {
+        "id": 5,
+        "name": "Oucaca",
+        "rdf:about": "",
+        "geo_location": "51.420833 45.9625",
+        "ref": "#oucaca"
+      },
+      {
+        "id": 6,
+        "name": "Tigri",
+        "rdf:about": "",
+        "geo_location": "38.433333 39.772778",
+        "ref": "#tigri"
+      },
+      {
+        "id": 7,
+        "name": "Paradise",
+        "rdf:about": "",
+        "geo_location": "",
+        "ref": "#paradise"
+      },
+      {
+        "id": 8,
+        "name": "Persia",
+        "rdf:about": "",
+        "geo_location": "35.683333 51.416667",
+        "ref": "#persie"
+      },
+      {
+        "id": 9,
+        "name": "Catai",
+        "rdf:about": "",
+        "geo_location": "38.998667 98.661112",
+        "note": "It is actually  Northern China",
+        "ref": "#catai"
+      },
+      {
+        "id": 10,
+        "name": "Bucara",
+        "rdf:about": "",
+        "geo_location": "39.768083 64.455577",
+        "ref": "#bucara"
+      },
+      {
+        "id": 11,
+        "name": "Jerusalen",
+        "rdf:about": "",
+        "geo_location": "31.768319 35.21371",
+        "ref": "#jerusalen"
+      },
+      {
+        "id": 12,
+        "name": "Rome",
+        "rdf:about": "",
+        "geo_location": "",
+              "ref": "#rome"
+      },
+      {
+        "id": 13,
+        "name": "Laias",
+        "rdf:about": "",
+        "geo_location": "36.584673 36.175616",
+              "ref": "#laias"
+      },
+      {
+        "id": 14,
+        "name": "Acri",
+        "rdf:about": "",
+        "geo_location": "39.5 16.383333",
+        "ref": "#acri"
+      },
+      {
+        "id": 15,
+        "name": "Syria",
+        "rdf:about": "",
+        "geo_location": "35 38",
+        "ref": "#syria"
+      },
+      {
+        "id": 16,
+        "name": "Alexandre",
+        "rdf:about": "",
+        "geo_location": "31.2 29.916667",
+        "ref": "#alexandre"
+      },
+      {
+        "id": 17,
+        "name": "Babelonie",
+        "rdf:about": "",
+        "geo_location": "32.468191 44.550193",
+        "ref": "#babelonie"
+      },
+      {
+        "id": 18,
+        "name": "Damasco",
+        "rdf:about": "",
+        "geo_location": "33.513807 36.276528",
+        "ref": "#damasco"
+      },
+      {
+        "id": 19,
+        "name": "Plajence",
+        "rdf:about": "",
+        "geo_location": "45.047778 9.700556",
+        "ref": "#plajence"
+      },
+      {
+        "id": 20,
+        "name": "Cyprus",
+        "rdf:about": "",
+        "geo_location": "35 33",
+        "ref": "#cyprus"
+      },
+      {
+        "id": 21,
+        "name": "Rhodes",
+        "rdf:about": "",
+        "geo_location": "",
+        "ref": "#rhodes"
+      },
+      {
+        "id": 22,
+        "name": "Longado",
+        "rdf:about": "",
+        "geo_location": "",
+        "note": "Not to be mapped: probably originating from a misinterpretaion of the past participle of the verb -longare-, -prolong-. For the translator a place between Rhodes and the island of Euboea",
+        "ref": "#longado"
+      },
+      {
+        "id": 23,
+        "name": "Negrepont",
+        "rdf:about": "",
+        "geo_location": "38.5 24",
+        "ref": "#negrepont"
+      },
+      {
+        "id": 24,
+        "name": "Heraclion",
+        "rdf:about": "",
+        "geo_location": "35.333333 25.133333",
+        "ref": "#heraclion"
+      },
+      {
+        "id": 25,
+        "name": "Methone",
+        "rdf:about": "",
+        "geo_location": "36.821667 21.706944",
+        "ref": "#methone"
+      },
+      {
+        "id": 26,
+        "name": "Venese",
+        "rdf:about": "",
+        "geo_location": "45.4375 12.335833",
+        "ref": "#venese"
+      },
+      {
+        "id": 27,
+        "name": "Armenia",
+        "rdf:about": "",
+        "geo_location": "40.069099 45.038188",
+        "ref": "#armenie"
+      },
+      {
+        "id": 28,
+        "name": "Laias",
+        "rdf:about": "",
+        "geo_location": "",
+        "ref": "#laias"
+      }
+    ]
+  }
+  

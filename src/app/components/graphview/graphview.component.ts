@@ -15,25 +15,10 @@ export class GraphviewComponent {
   }
   
   ngOnInit() {
-
-
-
-    // ID-DataTable
-    // -------------
-    // initialize and fill localDataTableObject 
-    // compare localDataTableObject -- completeDataTable 
-    // to => set identifier for own visualization and target visualization 
-    // (of completeDataTable)
-    // -------------
-    // AUS HTML ELEMENTEN AUSLESEN!!
-    // -------------
-
     
-
-
     // D3-Simulation 
     // -------------
-    this.d3SimulationService.createD3Simulation();
+    this.d3SimulationService.prepareSimulation();
 
   } 
 
